@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guna Teja Sarvan Patnaik</h1>
 <h3 align="center">Passionate Tech Enthusiast | Exploring the Depths of Machine Learning | Dedicated Coder with a Creative Edge | Aspiring App Developer Striving to Build Innovative Solutions for Real-World Problems</h3>
 
-- 📫 How to reach me **tejag078@gmail.com**
+- 📫 How to reach me **gunateja951@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
