@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="30px" height="30px" /> Hey there, I'm Guna Teja!
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVqbXNsb2oweXg3aGp2ZHB3ZnhvZHZrOTJsbXV3dmVvbmRlOHN2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="30px" height="30px" /> Hey there, I'm Guna Teja!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=AI+Developer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81;Deep+Learning+Engineer+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
