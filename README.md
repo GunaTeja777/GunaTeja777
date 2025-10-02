@@ -58,7 +58,7 @@ me.say_hi()
 <br>C++
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Typescript" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
@@ -70,8 +70,8 @@ me.say_hi()
 <br>Dart
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
+<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+<br>R
 </td>
 </tr>
 </table>
