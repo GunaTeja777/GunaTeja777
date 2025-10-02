@@ -16,7 +16,7 @@
 class AIDeveveloper:
     def __init__(self):
         self.name = "Guna Teja Sarvan Patnaik"
-        self.location = "Mysuru, Karnataka, IN 🇮🇳"
+        self.location = "INDIA 🇮🇳"
         self.role = "AI Developer & Computer Vision Specialist"
         self.current_focus = ["Computer Vision", "Deep Learning", "AI/ML Systems"]
         self.specialization = ["Object Detection", "Image Segmentation", "Neural Networks"]
