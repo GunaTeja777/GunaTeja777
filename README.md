@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="80px" height="80px"/>
+  <img src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100px" height="100px"/>
 </div>
 
-# Hey there, I'm Guna Teja!
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThkeHRxYmV4N2ZtOXlzcXd6YjhycjBjdHVxbWt6djMwaHl1Ynl6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ao53qNJHLQok4HxgEz/giphy.gif" width="30px" height="30px" />
 
 
 <div align="center">
