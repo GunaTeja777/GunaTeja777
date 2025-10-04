@@ -64,7 +64,7 @@ me.say_hi()
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Typescript" />
-<br>JavaScript
+<br>TypeScript
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
