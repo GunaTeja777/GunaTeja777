@@ -380,6 +380,6 @@ mindmap
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/GunaTeja777/count.svg)
+<img src="https://visitcount.itsvg.in/api?id=GunaTeja777&icon=5&color=00d9ff" alt="Visit Count" />
 
 </div>
