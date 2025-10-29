@@ -377,9 +377,3 @@ mindmap
 <br/>
 
 **💙 Made with passion by [Guna Teja](https://github.com/GunaTeja777)**
-
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=GunaTeja777&icon=5&color=00d9ff" alt="Visit Count" />
-
-</div>
