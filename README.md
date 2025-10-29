@@ -19,6 +19,7 @@
 
 ---
 
+<div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
@@ -53,7 +54,9 @@ me = AIEngineer()
 me.say_hi()
 ```
 
-<br clear="right"/>
+</div>
+
+<br clear="both"/>
 
 ---
 
@@ -77,38 +80,13 @@ me.say_hi()
 
 ### 🎯 Core Technologies
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-<br><b>Python</b>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-<br><b>C++</b>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-<br><b>Java</b>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-<br><b>AWS</b>
-</td>
-</tr>
-</table>
+| Python | C++ | TypeScript | Java | Docker | AWS |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/> | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55"/> |
 
 ### 🧠 AI/ML & Deep Learning
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -120,7 +98,7 @@ me.say_hi()
 
 ### 👁️ Computer Vision Arsenal
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 <img src="https://img.shields.io/badge/Detectron2-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MediaPipe-0097D7?style=for-the-badge" />
@@ -131,7 +109,7 @@ me.say_hi()
 
 ### 🛠️ Development & Deployment
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -142,7 +120,7 @@ me.say_hi()
 
 ### ☁️ Cloud & Database
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -158,56 +136,11 @@ me.say_hi()
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Computer Vision
-```yaml
-Object Detection:
-  - YOLO (v5-v11)
-  - Faster R-CNN
-  - SSD, RetinaNet
-  - EfficientDet
-
-Image Segmentation:
-  - U-Net, DeepLab
-  - Mask R-CNN
-  - Semantic/Instance/Panoptic
-
-Recognition Systems:
-  - Face Recognition (FaceNet, ArcFace)
-  - OCR (Tesseract, EasyOCR)
-  - Image Classification (ResNet, EfficientNet)
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 ML Engineering
-```yaml
-Model Development:
-  - Neural Architecture Design
-  - Transfer Learning
-  - Custom Loss Functions
-  - Data Augmentation Strategies
-
-Optimization:
-  - Model Quantization
-  - Pruning & Compression
-  - TensorRT Optimization
-  - ONNX Conversion
-
-Deployment:
-  - REST APIs (FastAPI, Flask)
-  - Edge Deployment
-  - Cloud Integration
-  - Real-time Inference
-```
-
-</td>
-</tr>
-</table>
+| 🔬 Computer Vision | 🚀 ML Engineering |
+|:---|:---|
+| **Object Detection:** YOLO (v5-v11), Faster R-CNN, SSD, RetinaNet, EfficientDet | **Model Development:** Neural Architecture Design, Transfer Learning, Custom Loss Functions |
+| **Image Segmentation:** U-Net, DeepLab, Mask R-CNN, Semantic/Instance/Panoptic | **Optimization:** Model Quantization, Pruning & Compression, TensorRT Optimization |
+| **Recognition Systems:** Face Recognition (FaceNet, ArcFace), OCR (Tesseract, EasyOCR) | **Deployment:** REST APIs (FastAPI, Flask), Edge Deployment, Cloud Integration |
 
 </div>
 
@@ -217,15 +150,28 @@ Deployment:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<a href="https://github.com/GunaTeja777">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/GunaTeja777">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" />
+<a href="https://github.com/GunaTeja777">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+</a>
+<a href="https://github.com/GunaTeja777">
+  <img width="49%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
+</a>
 
-<!-- Trophies -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" />
+</div>
 
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -234,7 +180,11 @@ Deployment:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -288,11 +238,11 @@ mindmap
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Detailed Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%"/>
 
 </div>
 
@@ -302,17 +252,7 @@ mindmap
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Building%20AI%20systems%20that%20make%20a%20difference&author=Guna%20Teja)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xyz5rqfkzrgay2hq3khxj66v7u)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -330,6 +270,6 @@ mindmap
 
 <br/>
 
-![](https://hit.yhype.me/github/profile?user_id=GunaTeja777)
+![Visitor Count](https://profile-counter.glitch.me/GunaTeja777/count.svg)
 
 </div>
