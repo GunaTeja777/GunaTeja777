@@ -16,7 +16,6 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GunaTeja777&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/GunaTeja777?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
   <img src="https://img.shields.io/github/stars/GunaTeja777?label=Stars&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="stars" />
 </p>
