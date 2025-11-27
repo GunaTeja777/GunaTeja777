@@ -259,7 +259,7 @@ me.say_hi()
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/GunaTeja777">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
 </a>
 
 </div>
