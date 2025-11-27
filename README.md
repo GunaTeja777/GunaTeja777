@@ -95,7 +95,7 @@ me.say_hi()
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:tejag078@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/home)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Contribute-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16)](https://stackoverflow.com/users/26361145/teja/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://github.com/GunaTeja777)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://tejafolio.dev/)
 
 </div>
 
