@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20Deep%20Learning%20Expert&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20Expert&descSize=16&descAlignY=51"/>
 
 <!-- Animated Typing -->
 <p align="center">
