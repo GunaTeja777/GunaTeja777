@@ -1,24 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=50&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20Engineer&descAlignY=55&descSize=18&animation=twinkling"/>
+# 👋 Hi, I'm Guna Teja Sarvan Patnaik
 
-</div>
+### 🤖 AI Engineer | 👁️ Computer Vision Specialist | 🚀 Open Source Enthusiast
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Matter;Deep+Learning+%7C+Computer+Vision;Turning+Ideas+Into+Production" alt="Typing SVG" />
 
-<div align="center">
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+AI%2FML;Transforming+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://img.shields.io/github/followers/GunaTeja777?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/github/stars/GunaTeja777?label=Stars&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="stars" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guna-teja-sarvan-patnaik/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejag078@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gunateja10008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejafolio.dev/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26361145/teja/)
 
 </div>
 
@@ -26,307 +18,155 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Guna Teja Sarvan Patnaik"
         self.role = "AI Developer & CV Specialist"
         self.location = "🇮🇳 India"
-        self.languages = [
-            "Python", "C++", "TypeScript", 
-            "Java", "Dart", "R"
-        ]
+        self.motto = "Building intelligent systems, one neural net at a time"
+        
+        self.languages = ["Python", "C++", "TypeScript", "Java", "Dart", "R"]
+        
         self.expertise = {
             "ai_ml": [
-                "Deep Learning", 
+                "Deep Learning",
                 "Computer Vision", 
-                "Neural Networks"
+                "Neural Networks",
+                "Transfer Learning"
             ],
             "cv_tasks": [
-                "Object Detection", 
-                "Image Segmentation", 
-                "OCR"
+                "Object Detection (YOLO v5-v11)",
+                "Image Segmentation (U-Net, Mask R-CNN)",
+                "OCR & Document Processing",
+                "Face Recognition & Verification"
             ],
             "frameworks": [
-                "PyTorch", "TensorFlow", 
-                "OpenCV", "YOLO"
+                "PyTorch", "TensorFlow", "OpenCV",
+                "YOLO", "FastAPI", "Scikit-learn"
             ],
             "deployment": [
-                "Docker", "AWS", 
-                "FastAPI", "TensorRT"
+                "Docker", "AWS", "TensorRT",
+                "ONNX", "Edge AI"
             ]
         }
-        
+    
     def daily_routine(self):
         return {
-            "morning": "☕ Coffee + Research",
-            "afternoon": "💻 Building Models",
-            "evening": "🐛 Debugging NNs",
-            "night": "🚀 Open Source"
+            "morning": "☕ Coffee + Latest Papers",
+            "afternoon": "💻 Training Models & Experiments", 
+            "evening": "🐛 Debugging & Optimization",
+            "night": "🚀 Open Source Contributions"
         }
     
-    def say_hi(self):
-        print("👋 Let's innovate together!")
+    def current_focus(self):
+        return [
+            "🔬 Advanced Vision Transformers",
+            "⚡ Model Optimization & TensorRT",
+            "🌐 MLOps & Production Deployment",
+            "📊 3D Computer Vision"
+        ]
 
 me = AIEngineer()
-me.say_hi()
+print("👋 Let's build something amazing together!")
 ```
 
-</td>
-<td width="40%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🌐 Connect & Collaborate
+## 💻 Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/guna-teja-sarvan-patnaik/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:tejag078@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/gunateja10008)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Contribute-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16)](https://stackoverflow.com/users/26361145/teja/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://tejafolio.dev/)
-
-</div>
-
----
-
-## 💻 Tech Stack & Expertise
-
-<div align="center">
-
-### 🎯 Core Technologies
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-<br><strong>C++</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-<br><strong>Java</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-<br><strong>AWS</strong>
-</td>
-</tr>
-</table>
-
-<br/>
+### 🎯 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🧠 AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-<br/>
-
-### 👁️ Computer Vision Arsenal
-
-<p align="center">
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-<img src="https://img.shields.io/badge/Detectron2-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MediaPipe-0097D7?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/EasyOCR-4B8BBE?style=for-the-badge" />
-</p>
-
-<br/>
-
-### 🛠️ Development & Deployment
-
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<br/>
+### 🛠️ Development & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ☁️ Cloud & Database
-
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Specializations & Expertise
-
-<div align="center">
+## 🎯 Specializations
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔬 Computer Vision
-
+### 👁️ Computer Vision
 - **Object Detection**
-  - YOLO (v5-v11)
-  - Faster R-CNN, SSD
-  - RetinaNet, EfficientDet
-
-- **Image Segmentation**
+  - YOLO (v5, v7, v8, v11)
+  - Faster R-CNN, RetinaNet
+  - EfficientDet, SSD
+- **Segmentation**
   - U-Net, DeepLab
   - Mask R-CNN
-  - Semantic/Instance Segmentation
-
-- **Recognition Systems**
-  - Face Recognition (FaceNet, ArcFace)
+  - Semantic & Instance
+- **Recognition**
+  - Face Recognition (FaceNet)
   - OCR (Tesseract, EasyOCR)
   - Image Classification
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🚀 ML Engineering
-
 - **Model Development**
   - Neural Architecture Design
   - Transfer Learning
   - Custom Loss Functions
-  - Data Augmentation
-
+  - Data Augmentation Pipelines
 - **Optimization**
   - Model Quantization
   - Pruning & Compression
-  - TensorRT Optimization
+  - TensorRT Acceleration
   - ONNX Conversion
-
 - **Deployment**
-  - REST APIs (FastAPI, Flask)
+  - REST APIs (FastAPI)
   - Edge Deployment
-  - Cloud Integration
+  - Cloud Integration (AWS)
+  - CI/CD for ML
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<a href="https://github.com/GunaTeja777">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/GunaTeja777">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/GunaTeja777">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-</a>
-<a href="https://github.com/GunaTeja777">
-  <img width="49%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💡 Current Focus & Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI Development))
-    Computer Vision
-      Object Detection
-      Image Segmentation
-      Video Analysis
-      3D Vision
-    Deep Learning
-      Transformer Models
-      Vision Transformers
-      Multimodal AI
-      Neural Architecture Search
-    MLOps
-      Model Deployment
-      CI CD for ML
-      Model Monitoring
-      A B Testing
-    Edge AI
-      Model Optimization
-      TensorRT
-      Mobile Deployment
-      ONNX Runtime
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
 
@@ -336,32 +176,75 @@ mindmap
 
 <div align="center">
 
-| 🎯 Focus Area | 🔥 Current Status | 🚀 Next Goal |
+| 🎯 Metric | 📊 Status | 🎖️ Achievement |
 |:---:|:---:|:---:|
-| **AI Models Deployed** | Production Ready | Edge AI Optimization |
-| **Computer Vision Projects** | Advanced Implementations | 3D Vision Systems |
-| **Open Source** | Active Contributor | Maintainer Role |
-| **Research** | Paper Reading | Publication |
+| **AI Models** | 🚀 Production Ready | Successfully Deployed |
+| **CV Projects** | 💡 Advanced Level | Object Detection & Segmentation |
+| **Open Source** | ⭐ Active Contributor | Regular Commits |
+| **Code Quality** | ✨ High Standards | Clean & Documented |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Detailed Activity
+## 💡 Current Focus & Learning Path
+
+```mermaid
+mindmap
+  root((AI Development 2024))
+    Computer Vision
+      Vision Transformers
+      3D Vision Systems
+      Video Analysis
+      Real-time Detection
+    Deep Learning
+      Transformer Models
+      Diffusion Models
+      Multi-modal AI
+      Few-shot Learning
+    MLOps
+      Model Deployment
+      CI/CD Pipelines
+      Model Monitoring
+      A/B Testing
+    Edge AI
+      TensorRT Optimization
+      Mobile Deployment
+      ONNX Runtime
+      Model Quantization
+```
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Daily Inspiration
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/GunaTeja777)
+
+*Replace YOUR_REPO_NAME with your actual repository names*
 
 </div>
 
@@ -369,10 +252,33 @@ mindmap
 
 <div align="center">
 
-### 📫 Let's Build Something Amazing Together!
+## 🤝 Let's Connect & Collaborate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=00d9ff&animation=twinkling&fontAlignY=70"/>
+**I'm always excited to discuss AI, collaborate on innovative projects, or just chat about technology!**
 
-<br/>
+### 💬 Open for:
+✅ AI/ML Collaborations | ✅ Open Source Projects | ✅ Consulting & Freelance | ✅ Speaking Opportunities
 
-**💙 Made with passion by [Guna Teja](https://github.com/GunaTeja777)**
+<br>
+
+### 📫 Reach Out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guna-teja-sarvan-patnaik/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejag078@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejafolio.dev/)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GunaTeja777&color=00d9ff&style=for-the-badge)
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### ⚡ Fun Fact
+*"I debug neural networks faster than I debug my own life decisions"* 😄
+
+**💙 Crafted with passion by [Guna Teja](https://github.com/GunaTeja777)**
+
+*Last Updated: December 2024*
+
+</div>
