@@ -9,28 +9,25 @@
 </p>
 
 <!-- Social Badges with Hover Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Connect+With+Me!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tejag078@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF" alt="Portfolio">
-  </a>
-  <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=111&color=1DA1F2" alt="Twitter">
-  </a>
-  <a href="https://stackoverflow.com/users/26361145/teja">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024" alt="StackOverflow">
+    <img src="https://img.shields.io/badge/⚡_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0088CC" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <a href="https://x.com/gunateja10008"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://stackoverflow.com/users/26361145/teja"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
 </p>
-
 
 <!-- Profile Views & Location -->
 <p align="center">
