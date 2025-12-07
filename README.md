@@ -36,13 +36,6 @@
   </a>
 </p>
 
-<style>
-p a img:hover {
-  transform: translateY(-4px) scale(1.08);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
-}
-</style>
-
 
 <!-- Profile Views & Location -->
 <p align="center">
