@@ -10,26 +10,29 @@
 
 <!-- Social Badges with Hover Effect -->
 <p align="center">
+
   <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A">
   </a>
 
   <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail?style=for-the-badge&logo=gmail&logoColor=white&color=D44638">
+    <img src="https://img.shields.io/badge/📧 Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A">
   </a>
 
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit?style=for-the-badge&logo=google-chrome&logoColor=white&color=1A1B27">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117">
   </a>
 
   <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-Follow?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">
+    <img src="https://img.shields.io/badge/🐦 Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117">
   </a>
 
-  <a href="https://stackoverflow.com/users/26361145/teja/">
-    <img src="https://img.shields.io/badge/StackOverflow-Profile?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F48024">
+  <a href="https://stackoverflow.com/users/26361145/teja">
+    <img src="https://img.shields.io/badge/💡 StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=1A1A1A">
   </a>
+
 </p>
+
 
 
 
