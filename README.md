@@ -353,26 +353,103 @@ mindmap
 
 <div align="center">
 
-<a href="https://github.com/GunaTeja777">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_1&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
-<a href="https://github.com/GunaTeja777">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_2&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
+## 🚀 Featured Projects
 
-<a href="https://github.com/GunaTeja777">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_3&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 1</h3>
+<div align="center">  
+<a href="https://github.com/GunaTeja777/YOUR_REPO_1" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_1&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" alt="Project 1" />
 </a>
-<a href="https://github.com/GunaTeja777">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_4&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
+<br>
+<br>
+<p>
+<a href="https://github.com/GunaTeja777/YOUR_REPO_1" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="YOUR_DEMO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+</p>
+<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Project Name 2</h3>
+<div align="center">  
+<a href="https://github.com/GunaTeja777/YOUR_REPO_2" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_2&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" alt="Project 2" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/GunaTeja777/YOUR_REPO_2" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="YOUR_DEMO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>Tech Stack:</strong> Python, Flask, PostgreSQL</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 3</h3>
+<div align="center">  
+<a href="https://github.com/GunaTeja777/YOUR_REPO_3" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_3&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" alt="Project 3" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/GunaTeja777/YOUR_REPO_3" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="YOUR_DEMO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>Tech Stack:</strong> Vue.js, Firebase</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Project Name 4</h3>
+<div align="center">  
+<a href="https://github.com/GunaTeja777/YOUR_REPO_4" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GunaTeja777&repo=YOUR_REPO_4&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" alt="Project 4" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/GunaTeja777/YOUR_REPO_4" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="YOUR_DEMO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### ⭐ Don't forget to star my repositories if you find them interesting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<p align="center">
-  <i>⭐ Don't forget to star my repositories if you find them interesting!</i>
-</p>
-
 ---
 
 <!-- Contribution Activity -->
