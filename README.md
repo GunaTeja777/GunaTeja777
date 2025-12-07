@@ -13,30 +13,31 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2&cacheSeconds=1">
   </a>
 
   <!-- Gmail -->
   <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=EA4335" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335&cacheSeconds=1">
   </a>
 
   <!-- Portfolio -->
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117&color=00D9FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF&cacheSeconds=1">
   </a>
 
-  <!-- Twitter -->
+  <!-- Twitter / X -->
   <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=1DA1F2" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111&color=1DA1F2&cacheSeconds=1">
   </a>
 
   <!-- StackOverflow -->
   <a href="https://stackoverflow.com/users/26361145/teja">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117&color=F48024" alt="StackOverflow" />
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024&cacheSeconds=1">
   </a>
 
 </p>
+
 
 
 <!-- Profile Views & Location -->
