@@ -11,20 +11,24 @@
 <!-- Social Badges with Hover Effect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2&cacheSeconds=1" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2" alt="LinkedIn">
   </a>
   <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335&cacheSeconds=1" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335" alt="Email">
   </a>
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF&cacheSeconds=1" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF" alt="Portfolio">
   </a>
   <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111&color=1DA1F2&cacheSeconds=1" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=111&color=1DA1F2" alt="Twitter">
   </a>
   <a href="https://stackoverflow.com/users/26361145/teja">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024&cacheSeconds=1" alt="StackOverflow">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024" alt="StackOverflow">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 
 
