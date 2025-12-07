@@ -9,59 +9,21 @@
 </p>
 
 <!-- Social Badges with Hover Effect -->
-<p align="center" style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
-  <style>
-    .animated-badge {
-      position: relative;
-      display: inline-block;
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
-    }
-    
-    .animated-badge:hover {
-      transform: translateY(-4px) scale(1.05);
-      filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.3));
-    }
-    
-    .animated-badge img {
-      transition: filter 0.3s;
-    }
-    
-    .animated-badge:hover img {
-      filter: brightness(1.2);
-    }
-    
-    @keyframes float {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-6px); }
-    }
-    
-    .animated-badge:nth-child(1) { animation: float 3s ease-in-out infinite; }
-    .animated-badge:nth-child(2) { animation: float 3s ease-in-out infinite 0.2s; }
-    .animated-badge:nth-child(3) { animation: float 3s ease-in-out infinite 0.4s; }
-    .animated-badge:nth-child(4) { animation: float 3s ease-in-out infinite 0.6s; }
-    .animated-badge:nth-child(5) { animation: float 3s ease-in-out infinite 0.8s; }
-  </style>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/" class="animated-badge">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2&cacheSeconds=1">
+<p align="center">
+  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111&color=0A66C2&cacheSeconds=1" alt="LinkedIn">
   </a>
-  <!-- Gmail -->
-  <a href="mailto:tejag078@gmail.com" class="animated-badge">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335&cacheSeconds=1">
+  <a href="mailto:tejag078@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111&color=EA4335&cacheSeconds=1" alt="Email">
   </a>
-  <!-- Portfolio -->
-  <a href="https://tejafolio.dev/" class="animated-badge">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF&cacheSeconds=1">
+  <a href="https://tejafolio.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111&color=00D9FF&cacheSeconds=1" alt="Portfolio">
   </a>
-  <!-- Twitter / X -->
-  <a href="https://x.com/gunateja10008" class="animated-badge">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111&color=1DA1F2&cacheSeconds=1">
+  <a href="https://x.com/gunateja10008">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111&color=1DA1F2&cacheSeconds=1" alt="Twitter">
   </a>
-  <!-- StackOverflow -->
-  <a href="https://stackoverflow.com/users/26361145/teja" class="animated-badge">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024&cacheSeconds=1">
+  <a href="https://stackoverflow.com/users/26361145/teja">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111&color=F48024&cacheSeconds=1" alt="StackOverflow">
   </a>
 </p>
 
