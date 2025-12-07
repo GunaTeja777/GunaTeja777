@@ -11,42 +11,38 @@
 <!-- Social Badges with Hover Effect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" height="35" 
-         style="border-radius:8px; transition:0.3s; box-shadow:0 0 10px #0077B5;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="transition:0.25s;" height="36">
   </a>
 
   <a href="mailto:tejag078@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Gmail" height="35"
-         style="border-radius:8px; transition:0.3s; box-shadow:0 0 10px #EA4335;">
+         style="transition:0.25s;" height="36">
   </a>
 
   <a href="https://tejafolio.dev/">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27"
-         alt="Portfolio" height="35"
-         style="border-radius:8px; transition:0.3s; box-shadow:0 0 10px #00D9FF;">
+         style="transition:0.25s;" height="36">
   </a>
 
   <a href="https://x.com/gunateja10008">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter" height="35"
-         style="border-radius:8px; transition:0.3s; box-shadow:0 0 10px #1DA1F2;">
+         style="transition:0.25s;" height="36">
   </a>
 
   <a href="https://stackoverflow.com/users/26361145/teja/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-         alt="Stack Overflow" height="35"
-         style="border-radius:8px; transition:0.3s; box-shadow:0 0 10px #FE7A16;">
+         style="transition:0.25s;" height="36">
   </a>
 </p>
 
 <style>
-a img:hover {
-  transform: scale(1.12);
-  filter: brightness(1.25);
+p a img:hover {
+  transform: translateY(-4px) scale(1.08);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
 }
 </style>
+
 
 <!-- Profile Views & Location -->
 <p align="center">
