@@ -298,7 +298,7 @@ me.say_hi()
 ---
 
 <!-- Learning Path Visualization -->
-## 💡 Current Focus & Roadmap 2024-2025
+## 💡 Current Focus & Roadmap 2025-2026
 
 ```mermaid
 mindmap
@@ -474,7 +474,7 @@ mindmap
 
 <br>
 
-<i>Last Updated: December 2024</i>
+<i>Last Updated: December 2026</i>
 
 </div>
 
