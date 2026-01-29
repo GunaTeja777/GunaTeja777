@@ -1,25 +1,17 @@
 <div align="center">
 
-<!-- Football-themed Purple Header with Animated Name -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3d0066,100:5500cc&height=280&section=header&animation=twinkling&fontColor=e6ccff&fontSize=52&fontAlignY=35&desc=⚽%20AI%20Engineer%20%7C%20Scoring%20Goals%20in%20Computer%20Vision%20⚽&descSize=20&descAlignY=55">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3d0066,100:5500cc&height=280&section=header&animation=twinkling&fontColor=e6ccff&fontSize=52&fontAlignY=35&desc=⚽%20AI%20Engineer%20%7C%20Scoring%20Goals%20in%20Computer%20Vision%20⚽&descSize=20&descAlignY=55" />
-</picture>
+<!-- Enhanced Purple Header with Fixed Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=300&section=header&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=50&fontColor=e6ccff&animation=fadeIn&fontAlignY=38&desc=⚽%20AI%20Engineer%20|%20Scoring%20Goals%20in%20Computer%20Vision%20⚽&descAlignY=55&descSize=18" alt="Header"/>
 
-<!-- Animated Name with Football Theme -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=500&color=E6CCFF&background=1A003300&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%9A%BD+GUNA+TEJA+SARVAN+PATNAIK+%E2%9A%BD;%F0%9F%94%A5+AI+STRIKER+%7C+VISION+ARCHITECT+%F0%9F%94%A5;%F0%9F%8F%86+BUILDING+CHAMPIONSHIP+AI+SYSTEMS+%F0%9F%8F%86" alt="Animated Name" />
-</h1>
-
-<!-- Football Action Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&duration=2500&pause=800&color=A366FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=950&height=80&lines=%E2%9A%A1+Training+Neural+Nets+Like+Training+Champions+%E2%9A%A1;%F0%9F%8E%AF+Every+Model+Is+A+Game-Winning+Goal+%F0%9F%8E%AF;%F0%9F%9A%80+Deploying+AI+at+Lightning+Speed+%F0%9F%9A%80;%F0%9F%94%A5+Precision%2C+Power%2C+Performance+%F0%9F%94%A5;%F0%9F%8F%85+Champions+League+of+Computer+Vision+%F0%9F%8F%85" alt="Typing Animation" />
-</a>
+<!-- Fixed Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A366FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=⚡+Training+Neural+Nets+Like+Champions+⚡;🎯+Every+Model+Is+A+Game-Winning+Goal+🎯;🚀+Deploying+AI+at+Lightning+Speed+🚀;🔥+Precision%2C+Power%2C+Performance+🔥;🏆+Champions+League+of+Computer+Vision+🏆" alt="Typing SVG" />
+</p>
 
 <br/>
 
 <!-- Football Stadium Stats Board -->
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  🏟️              AI ENGINEER MATCH STATISTICS              🏟️  ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -30,23 +22,26 @@
 ║   🏆 ACHIEVEMENTS: 50+ Production Models Deployed                ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <!-- Social Links as Football Jersey Numbers -->
 <p>
   <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/🔗_LINKEDIN-JERSEY_%2310-5500cc?style=for-the-badge&labelColor=1a0033&color=7d3cff" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-JERSEY_%237-5500cc?style=for-the-badge&labelColor=1a0033&color=a366ff" />
+    <img src="https://img.shields.io/badge/Portfolio-7d3cff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-CAPTAIN's_BADGE-5500cc?style=for-the-badge&labelColor=1a0033&color=d699ff" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/GunaTeja777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Match Stats Counter -->
-<img src="https://komarev.com/ghpvc/?username=GunaTeja777&style=for-the-badge&color=7d3cff&label=⚽+STADIUM+VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=GunaTeja777&style=for-the-badge&color=7d3cff&label=STADIUM+VISITORS" alt="Profile views"/>
 
 </div>
 
@@ -73,11 +68,13 @@
 ### 🤖 **ATTACK**
 *AI/ML Frameworks*
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0033?style=for-the-badge&logo=pytorch&logoColor=a366ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0033?style=for-the-badge&logo=tensorflow&logoColor=d699ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a0033?style=for-the-badge&logo=opencv&logoColor=7d3cff)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-1a0033?style=for-the-badge)
-![ONNX](https://img.shields.io/badge/ONNX-1a0033?style=for-the-badge&logo=onnx&logoColor=e6ccff)
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+</p>
 
 </td>
 <td align="center" width="33%">
@@ -85,11 +82,13 @@
 ### 👁️ **MIDFIELD**
 *Vision Systems*
 
-![YOLO](https://img.shields.io/badge/YOLO-3d0066?style=for-the-badge&logoColor=fff)
-![Detectron2](https://img.shields.io/badge/Detectron2-3d0066?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-3d0066?style=for-the-badge&logo=google&logoColor=fff)
-![SAM](https://img.shields.io/badge/SAM-3d0066?style=for-the-badge)
-![ViT](https://img.shields.io/badge/Vision_Transformers-3d0066?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Detectron2-3776AB?style=for-the-badge" alt="Detectron2"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/SAM-FF6B6B?style=for-the-badge" alt="SAM"/>
+<img src="https://img.shields.io/badge/ViT-8A2BE2?style=for-the-badge" alt="ViT"/>
+</p>
 
 </td>
 <td align="center" width="33%">
@@ -97,11 +96,13 @@
 ### 🛡️ **DEFENSE**
 *Engineering & DevOps*
 
-![FastAPI](https://img.shields.io/badge/FastAPI-5500cc?style=for-the-badge&logo=fastapi&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-5500cc?style=for-the-badge&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/K8s-5500cc?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-5500cc?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5500cc?style=for-the-badge&logo=postgresql&logoColor=fff)
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
 </td>
 </tr>
@@ -111,10 +112,12 @@
 
 ### 💻 **COACHING STAFF (Languages)**
 
-![Python](https://img.shields.io/badge/Python_⚽-7d3cff?style=for-the-badge&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++_⚡-7d3cff?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript_🎯-7d3cff?style=for-the-badge&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/Java_🔥-7d3cff?style=for-the-badge&logo=openjdk&logoColor=fff)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
 </div>
 
@@ -124,23 +127,19 @@
 
 ## 📊 SEASON PERFORMANCE DASHBOARD
 
-</div>
-
-<div align="center">
-
-<!-- Main Stats -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=e6ccff&icon_color=a366ff&text_color=d699ff&ring_color=7d3cff&fire_color=ff6b6b&rank_icon=percentile" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=e6ccff&text_color=d699ff&langs_count=8" />
+<!-- Fixed GitHub Stats with Proper Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=e6ccff&icon_color=a366ff&text_color=d699ff&border_radius=10" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=e6ccff&text_color=d699ff&border_radius=10&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Contribution Streak -->
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=midnight-purple&hide_border=true&background=1a0033&stroke=7d3cff&ring=a366ff&fire=ff6b6b&currStreakLabel=e6ccff&sideNums=d699ff&sideLabels=e6ccff&dates=b8a3d9" />
+<!-- Fixed Contribution Streak -->
+<img width="80%" src="https://streak-stats.demolab.com/?user=GunaTeja777&theme=tokyonight&hide_border=true&background=1a0033&stroke=7d3cff&ring=a366ff&fire=ff6b6b&currStreakLabel=e6ccff&sideNums=d699ff&sideLabels=e6ccff&dates=b8a3d9&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=high-contrast&bg_color=1a0033&color=e6ccff&line=a366ff&point=d699ff&area=true&hide_border=true&custom_title=⚽%20Training%20Ground%20Activity%20%7C%20Commits%20Timeline" />
+<!-- Fixed Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=tokyo-night&bg_color=1a0033&color=e6ccff&line=a366ff&point=d699ff&area=true&hide_border=true&custom_title=⚽%20Training%20Ground%20Activity%20|%20Commits%20Timeline" alt="Activity Graph"/>
 
 </div>
 
@@ -206,7 +205,7 @@
 <details open>
 <summary><h3>🔥 Match 1: Real-time Object Detection Championship</h3></summary>
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │ 🏟️ MATCH REPORT                                        │
 ├─────────────────────────────────────────────────────────┤
@@ -214,7 +213,7 @@
 │ Formation: 60+ FPS Attack Strategy                     │
 │ Result: 95%+ mAP Victory                               │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 **⚽ Goals Scored:**
 - 🎯 **Goal 1:** 60+ FPS on edge devices - Lightning fast counter-attack
@@ -233,7 +232,7 @@
 <details>
 <summary><h3>📄 Match 2: Document Analysis Cup Final</h3></summary>
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │ 🏆 FINAL SCORE                                         │
 ├─────────────────────────────────────────────────────────┤
@@ -241,7 +240,7 @@
 │ Performance: 98%+ Character Accuracy                   │
 │ Trophy: 500+ Documents/Hour Processing                 │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 **⚽ Winning Plays:**
 - 📝 Multi-language OCR mastery
@@ -254,7 +253,7 @@
 <details>
 <summary><h3>🏥 Match 3: Medical Imaging World Cup</h3></summary>
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │ 🌍 WORLD CUP STATUS                                    │
 ├─────────────────────────────────────────────────────────┤
@@ -262,7 +261,7 @@
 │ Championship: 94%+ Dice Coefficient                    │
 │ Impact: Clinical Validation Success                    │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 **🏆 Trophy Cabinet:**
 - 🎯 3D volumetric segmentation - The beautiful game
@@ -275,7 +274,7 @@
 <details>
 <summary><h3>👤 Match 4: Face Recognition Champions League</h3></summary>
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │ 🏆 CHAMPIONS LEAGUE                                    │
 ├─────────────────────────────────────────────────────────┤
@@ -283,7 +282,7 @@
 │ Speed: <100ms for 100K+ database                       │
 │ Accuracy: 99.8% on LFW Benchmark                       │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 **⚡ Lightning Tactics:**
 - 🚀 Vector similarity search at warp speed
@@ -299,7 +298,7 @@
 
 ## 🏅 HALL OF FAME
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage)
+<img src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage" alt="GitHub Trophies"/>
 
 </div>
 
@@ -311,7 +310,7 @@
 
 </div>
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║  📖 CURRENT TRAINING FOCUS                                   ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -323,7 +322,7 @@
 ║  🧠 Neural Radiance Fields (NeRF)                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 **📖 Reading List (Match Preparation):**
 - ⚡ "Attention Is All You Need" - Understanding the game
@@ -376,7 +375,7 @@
 
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║  💼 AVAILABLE FOR:                                        ║
 ║     🎯 Consulting                                         ║
@@ -384,7 +383,7 @@
 ║     🔬 Research Collaborations                            ║
 ║     🎓 Technical Mentorship                               ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
@@ -394,7 +393,7 @@
 
 ## 💜 JOIN THE TEAM
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║  "In football and AI, greatness comes from               ║
@@ -404,22 +403,22 @@
 ║                    - The AI Striker ⚽                    ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <br/>
 
-<!-- Contact Badges as Match Tickets -->
+<!-- Contact Badges -->
 <a href="mailto:tejag078@gmail.com">
-  <img src="https://img.shields.io/badge/📧_MATCH_TICKET-EMAIL-7d3cff?style=for-the-badge&labelColor=1a0033" height="40"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-  <img src="https://img.shields.io/badge/🔗_VIP_PASS-LINKEDIN-a366ff?style=for-the-badge&labelColor=1a0033&logo=linkedin&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
 </a>
 <a href="https://tejafolio.dev/">
-  <img src="https://img.shields.io/badge/🏟️_STADIUM-PORTFOLIO-d699ff?style=for-the-badge&labelColor=1a0033" height="40"/>
+  <img src="https://img.shields.io/badge/Portfolio-7d3cff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
 </a>
 <a href="https://github.com/GunaTeja777">
-  <img src="https://img.shields.io/badge/⚽_MATCH_STATS-GITHUB-e6ccff?style=for-the-badge&labelColor=1a0033&logo=github&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
 </a>
 
 <br/><br/>
@@ -430,8 +429,8 @@
 
 <br/>
 
-<!-- Visitor Counter as Match Attendance -->
-<img src="https://profile-counter.glitch.me/GunaTeja777/count.svg" alt="Stadium Attendance"/>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=GunaTeja777&style=for-the-badge&color=7d3cff" alt="Profile Views"/>
 
 </div>
 
@@ -439,16 +438,11 @@
 
 <div align="center">
 
-<!-- Animated Footer with Football Theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5500cc,50:3d0066,100:1a0033&height=150&section=footer&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5500cc,50:3d0066,100:1a0033&height=150&section=footer&animation=twinkling" />
-</picture>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=footer" alt="Footer"/>
 
 ### ⚽ *"Every commit is a step closer to victory. Every model is a championship goal."* ⚽
 
 **🏆 Crafted with 💜 by the AI Striker | [GunaTeja777](https://github.com/GunaTeja777)**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
