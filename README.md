@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=300&section=header&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=50&fontColor=e6ccff&animation=fadeIn&fontAlignY=38&desc=⚽%20AI%20Engineer%20|%20Scoring%20Goals%20in%20Computer%20Vision%20⚽&descAlignY=55&descSize=18" alt="Header"/>
 
 <!-- Fixed Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A366FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=⚡+Training+Neural+Nets+Like+Champions+⚡;🎯+Every+Model+Is+A+Game-Winning+Goal+🎯;🚀+Deploying+AI+at+Lightning+Speed+🚀;🔥+Precision%2C+Power%2C+Performance+🔥;🏆+Champions+League+of+Computer+Vision+🏆" alt="Typing SVG" />
-</p>
+
 
 <br/>
 
