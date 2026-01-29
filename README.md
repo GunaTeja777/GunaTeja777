@@ -1,60 +1,20 @@
 <div align="center">
 
 <p align="center">
-  <svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
-    
-    <!-- Background -->
-    <defs>
-      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0f2027"/>
-        <stop offset="50%" stop-color="#203a43"/>
-        <stop offset="100%" stop-color="#2c5364"/>
-      </linearGradient>
-    </defs>
-
-    <rect x="0" y="0" width="900" height="140" rx="18" fill="url(#bg)" />
-
-    <!-- Name -->
-    <text x="450" y="65"
-          text-anchor="middle"
-          font-size="36"
-          font-weight="700"
-          fill="#ffffff"
-          font-family="Segoe UI, Arial">
-      GUNA TEJA SARVAN PATNAIK
-    </text>
-
-    <!-- Subtitle -->
-    <text x="450" y="100"
-          text-anchor="middle"
-          font-size="16"
-          fill="#d1e8ff"
-          font-family="Segoe UI, Arial">
-      AI Engineer • Computer Vision • Machine Learning
-    </text>
-
-    <!-- Football -->
-    <text x="-40" y="92" font-size="28">⚽
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="-40 0"
-        to="980 0"
-        dur="3.5s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </svg>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=GUNA%20TEJA%20SARVAN%20PATNAIK%20⚽&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Machine%20Learning&descAlignY=62&descSize=18&color=0:0b1d26,50:12343b,100:1b5e63"
+  />
 </p>
+
 
 <!-- ===================== MESSI GOAL GIF ===================== -->
 <p align="center">
   <img 
-    src="[https://media.giphy.com/media/Y2hiDqYe0SJ3zrvK0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHUzcWlrY2F1dWtzdjlnMGtnaXNoejkybHowbDBnZnQ1ejl4bWxhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y2hiDqYe0SJ3zrvKk0/giphy.gif)"
-    width="460"
-    alt="Messi Goal Celebration"
+    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif"
+    width="360"
   />
 </p>
+
 
 <!-- ===================== TAGLINE ===================== -->
 <h3 align="center">
