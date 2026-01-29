@@ -1,7 +1,39 @@
 <div align="center">
 
-<!-- Enhanced Purple Header with Fixed Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=300&section=header&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=50&fontColor=e6ccff&animation=fadeIn&fontAlignY=38&desc=⚽%20AI%20Engineer%20|%20Scoring%20Goals%20in%20Computer%20Vision%20⚽&descAlignY=55&descSize=18" alt="Header"/>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=52&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58&descSize=20&color=0:1a1a2e,50:16213e,100:0f3460"
+  />
+</p>
+
+<!-- ===================== TYPING TEXT ===================== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=⚽+Scoring+Goals+with+AI;🤖+Computer+Vision+Engineer;📊+Machine+Learning+Explorer;🚀+Turning+Ideas+into+Models"
+  />
+</p>
+
+<!-- ===================== HERO GIF ===================== -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif"
+    width="380"
+  />
+</p>
+
+<!-- ===================== NEON DIVIDER ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"
+  />
+</p>
+
+<!-- ===================== QUICK TAGLINE ===================== -->
+<h3 align="center">
+  ⚡ Building Intelligent Systems • Training Smarter Models • Loving the Game ⚽
+</h3>
+
 
 <!-- Fixed Animated Typing Effect -->
 
