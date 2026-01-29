@@ -10,7 +10,7 @@
 <!-- ===================== MESSI GOAL GIF ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvK0/giphy.gif"
+    src="[https://media.giphy.com/media/Y2hiDqYe0SJ3zrvK0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHUzcWlrY2F1dWtzdjlnMGtnaXNoejkybHowbDBnZnQ1ejl4bWxhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y2hiDqYe0SJ3zrvKk0/giphy.gif)"
     width="460"
     alt="Messi Goal Celebration"
   />
