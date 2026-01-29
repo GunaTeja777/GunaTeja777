@@ -7,25 +7,18 @@
   />
 </p>
 
-<!-- ===================== FOOTBALL / AI GIF ===================== -->
+<!-- ===================== MESSI GOAL GIF ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif"
-    width="420"
-    alt="Football Goal Animation"
-  />
-</p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=⚽+Scoring+Goals+with+AI;🤖+Computer+Vision+Engineer;📊+Machine+Learning+Enthusiast;🚀+Turning+Ideas+into+Intelligent+Systems"
+    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvK0/giphy.gif"
+    width="460"
+    alt="Messi Goal Celebration"
   />
 </p>
 
 <!-- ===================== TAGLINE ===================== -->
 <h3 align="center">
-  ⚡ Passionate about AI • Focused on Impact • Inspired by Football ⚽
+  ⚽ Scoring Goals with AI • 🤖 Computer Vision • 🚀 Machine Learning
 </h3>
 
 <!-- ===================== DIVIDER ===================== -->
@@ -38,11 +31,22 @@
 <!-- ===================== ABOUT ME ===================== -->
 ### 👋 About Me
 - 🤖 AI Engineer focused on **Computer Vision & Machine Learning**
-- ⚽ Football lover — learning discipline & precision from the game
-- 💡 Love building **real-world ML projects**
-- 🚀 Always exploring better models & cleaner code
+- 💡 Building **real-world ML projects**
+- 🚀 Always learning, always improving
 
-<!-- ==============
+<!-- ===================== TECH STACK ===================== -->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C  
+- **ML/DL:** Scikit-Learn, TensorFlow, PyTorch  
+- **CV:** OpenCV  
+- **Tools:** Git, GitHub, VS Code, Jupyter  
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"
+  />
+</p>
 
 
 <!-- ===================== QUICK TAGLINE ===================== -->
