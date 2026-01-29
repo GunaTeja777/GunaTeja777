@@ -3,31 +3,47 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=52&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58&descSize=20&color=0:1a1a2e,50:16213e,100:0f3460"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&color=0:0f2027,50:203a43,100:2c5364"
   />
 </p>
 
-<!-- ===================== TYPING TEXT ===================== -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=⚽+Scoring+Goals+with+AI;🤖+Computer+Vision+Engineer;📊+Machine+Learning+Explorer;🚀+Turning+Ideas+into+Models"
-  />
-</p>
-
-<!-- ===================== HERO GIF ===================== -->
+<!-- ===================== FOOTBALL / AI GIF ===================== -->
 <p align="center">
   <img 
     src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif"
-    width="380"
+    width="420"
+    alt="Football Goal Animation"
   />
 </p>
 
-<!-- ===================== NEON DIVIDER ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=⚽+Scoring+Goals+with+AI;🤖+Computer+Vision+Engineer;📊+Machine+Learning+Enthusiast;🚀+Turning+Ideas+into+Intelligent+Systems"
   />
 </p>
+
+<!-- ===================== TAGLINE ===================== -->
+<h3 align="center">
+  ⚡ Passionate about AI • Focused on Impact • Inspired by Football ⚽
+</h3>
+
+<!-- ===================== DIVIDER ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"
+  />
+</p>
+
+<!-- ===================== ABOUT ME ===================== -->
+### 👋 About Me
+- 🤖 AI Engineer focused on **Computer Vision & Machine Learning**
+- ⚽ Football lover — learning discipline & precision from the game
+- 💡 Love building **real-world ML projects**
+- 🚀 Always exploring better models & cleaner code
+
+<!-- ==============
+
 
 <!-- ===================== QUICK TAGLINE ===================== -->
 <h3 align="center">
