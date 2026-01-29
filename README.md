@@ -54,54 +54,6 @@
 
 <div align="center">
 
-## ⚽ THE STARTING LINEUP
-
-</div>
-
-```python
-class AIStriker:
-    """
-    🏟️ Playing Formation: 4-3-3 (Attack-Minded AI Architecture)
-    """
-    def __init__(self):
-        self.jersey_name = "GUNA TEJA"
-        self.jersey_number = 10  # The Playmaker
-        self.position = "AI Striker"
-        self.home_ground = "Bengaluru Tech Arena, India 🇮🇳"
-        
-        # Attack Formation
-        self.attacking_skills = {
-            "⚡ Pace": ["Real-time Vision Systems", "Edge AI Deployment"],
-            "🎯 Finishing": ["95%+ mAP Object Detection", "98%+ OCR Accuracy"],
-            "🔥 Power": ["YOLOv8", "Vision Transformers", "SAM"],
-            "🎨 Flair": ["Multi-modal AI", "3D Computer Vision"]
-        }
-        
-        # Championship Trophies
-        self.trophies = [
-            "🏆 Champions: 50+ Production Models",
-            "⚡ Speed Award: 5x Inference Optimization", 
-            "🥇 Golden Boot: 1000+ Images/Second",
-            "🎯 Precision Trophy: 95%+ Accuracy"
-        ]
-        
-    def match_philosophy(self):
-        return """
-        ⚽ Attack: Build AI that sees and understands
-        🛡️ Defense: Production-ready, battle-tested code
-        🎯 Strategy: Transform research into real-world impact
-        """
-    
-    def celebration(self):
-        print("🎉⚽🔥 GOOOAAAALLL!!! Another AI model scores! 🔥⚽🎉")
-
-# Kick off the match!
-player_10 = AIStriker()
-player_10.celebration()
-```
-
-<div align="center">
-
 > 💜 **Match Motto:** *"In AI as in football - it's not just about the technology, it's about the execution, the strategy, and the winning results!"*
 
 </div>
