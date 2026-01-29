@@ -1,302 +1,158 @@
 <div align="center">
 
-<!-- Animated Header with Wave -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=51"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=51"/>
-</picture>
+# Hi there, I'm Guna Teja Sarvan Patnaik 👋
 
-<!-- Dynamic Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI+Systems+That+Transform+Industries;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+MLOps;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
-</p>
+### AI Engineer | Computer Vision Specialist | Deep Learning Expert
 
-<!-- Connect Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Connect+With+Me!" alt="Typing SVG" />
-</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guna-teja-sarvan-patnaik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://tejafolio.dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tejag078@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/gunateja10008)
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/⚡_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0088CC" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://stackoverflow.com/users/26361145/teja">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
-  </a>
-</p>
-
-<!-- Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GunaTeja777&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-FF9933?style=for-the-badge&labelColor=138808" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00ff00?style=for-the-badge&labelColor=green" alt="Status"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=GunaTeja777&color=00d9ff&style=flat)
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</picture>
+I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. With expertise in **Computer Vision**, **Deep Learning**, and **MLOps**, I specialize in creating production-ready AI solutions that transform industries.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Guna Teja Sarvan Patnaik"
-        self.role = "AI Developer & CV Specialist"
-        self.location = "🇮🇳 India"
-        self.current_work = "Building Production AI Systems"
-        
-        self.code = ["Python", "C++", "TypeScript", "Java", "R"]
-        self.tools = ["PyTorch", "TensorFlow", "Docker", "AWS"]
-        
-    def say_hi(self):
-        print("""
-        👋 Hey there! I'm passionate about:
-        
-        🧠 Deep Learning & Neural Networks
-        👁️ Computer Vision (YOLO, Segmentation, OCR)
-        🚀 MLOps & Production Deployment
-        ⚡ Model Optimization & Edge AI
-        
-        💡 Always exploring cutting-edge AI research
-           and building impactful solutions!
-        """)
-    
-    def current_focus(self):
-        return {
-            "research": ["Vision Transformers", "3D CV"],
-            "building": ["Real-time Detection Systems"],
-            "learning": ["Advanced MLOps", "TensorRT"],
-            "open_source": "Active Contributor 🌟"
-        }
+- 🔭 Currently working on **Real-time Object Detection Systems** and **Advanced CV Applications**
+- 🌱 Learning **Vision Transformers**, **3D Computer Vision**, and **Edge AI Optimization**
+- 💼 Open to collaborating on **AI/ML projects**, **Open Source contributions**, and **Consulting opportunities**
+- 🎯 Goal: Build scalable AI systems that make a meaningful impact
+- 📍 Based in **India** 🇮🇳
 
-# Let's connect and build something amazing! 🚀
-me = AIEngineer()
-me.say_hi()
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+```
+Python  ⭐⭐⭐⭐⭐    C++      ⭐⭐⭐⭐      TypeScript ⭐⭐⭐⭐
+Java    ⭐⭐⭐⭐      R        ⭐⭐⭐       SQL        ⭐⭐⭐⭐
+Dart    ⭐⭐⭐
 ```
 
-<br clear="right"/>
+### AI/ML & Deep Learning
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frameworks & Libraries**
+- PyTorch, TensorFlow, Keras
+- OpenCV, scikit-learn
+- Pandas, NumPy, Matplotlib
+- Hugging Face Transformers
+
+</td>
+<td valign="top" width="50%">
+
+**Specializations**
+- Computer Vision (YOLO, R-CNN, SegNet)
+- Object Detection & Tracking
+- Image Segmentation (Semantic/Instance)
+- OCR & Document Analysis
+- Face Recognition & Biometrics
+
+</td>
+</tr>
+</table>
+
+### Development & DevOps
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend & APIs**
+- FastAPI
+- Flask
+- REST APIs
+- GraphQL
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps & Cloud**
+- Docker & Kubernetes
+- AWS (EC2, S3, Lambda)
+- CI/CD Pipelines
+- Git & GitHub Actions
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+
+</td>
+</tr>
+</table>
+
+### Tools & Technologies
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-<!-- Tech Stack -->
-## 💻 Tech Arsenal
-
-<div align="center">
-
-<!-- Animated Icons -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
-</picture>
-
-</div>
-
-### 🔤 Programming Languages
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</picture>
-
-</div>
-
-### 🤖 AI/ML & Deep Learning
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</picture>
-
-</div>
-
-### 🛠️ Development & DevOps
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</picture>
-
-</div>
-
-### ☁️ Cloud & Databases
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600">
-</picture>
-</div>
-
----
-
-<!-- Expertise Section -->
-## 🎯 Core Expertise
+## 💼 Core Expertise
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 👁️ Computer Vision
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Object Detection**
-
-- YOLO (v5, v7, v8, v9, v11)
+### 🔍 Computer Vision
+**Object Detection**
+- YOLO (v5/v7/v8/v9/v11) - Custom training & optimization
 - Faster R-CNN, RetinaNet, EfficientDet
-- Real-time detection systems
-- Custom model training
+- Real-time detection for edge devices
+- Multi-object tracking systems
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Image Segmentation**
-
-- U-Net, DeepLabV3+
-- Mask R-CNN
-- Semantic & Instance Segmentation
+**Image Segmentation**
+- U-Net, Mask R-CNN, DeepLabV3+
 - Medical image segmentation
+- Instance & semantic segmentation
+- Custom dataset annotation & training
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Recognition Systems**
-
-- Face Recognition (FaceNet, ArcFace)
+**Recognition & Classification**
+- Face recognition (FaceNet, ArcFace)
 - OCR (Tesseract, EasyOCR, PaddleOCR)
-- Image Classification (ResNet, EfficientNet)
-- Document Analysis
+- Image classification (ResNet, EfficientNet, ViT)
+- Document understanding & analysis
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🚀 ML Engineering
+### 🚀 ML Engineering & MLOps
+**Model Development**
+- Neural architecture design & implementation
+- Transfer learning & fine-tuning
+- Custom loss functions & training pipelines
+- Hyperparameter optimization (Optuna, Ray Tune)
+- Data augmentation strategies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Model Development**
+**Model Optimization**
+- Quantization (INT8, FP16, Mixed precision)
+- Model pruning & knowledge distillation
+- TensorRT & ONNX optimization
+- Inference acceleration (5-10x speedup)
 
-- Neural Architecture Design
-- Transfer Learning & Fine-tuning
-- Custom Loss Functions
-- Data Augmentation Strategies
-- Hyperparameter Optimization
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Optimization**
-
-- Model Quantization (INT8, FP16)
-- Pruning & Compression
-- TensorRT Optimization
-- ONNX Conversion & Deployment
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
-</picture> **Production Deployment**
-
-- REST APIs (FastAPI, Flask)
-- Docker Containerization
-- AWS Cloud Deployment
-- CI/CD Pipelines
-- Model Monitoring
+**Production Deployment**
+- REST API development (FastAPI, Flask)
+- Docker containerization & orchestration
+- Cloud deployment (AWS, GCP)
+- Model monitoring & versioning
+- CI/CD for ML pipelines
+- A/B testing frameworks
 
 </td>
 </tr>
@@ -304,229 +160,212 @@ me.say_hi()
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10"/>
-    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="Streak Stats" />
-  </picture>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&border_radius=10"/>
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&border_radius=10" />
-  </picture>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+
 </div>
 
-<br/>
-
-<!-- Trophy Section -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="Trophies"/>
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
+
 </div>
 
 ---
 
-<!-- Achievements Timeline -->
-## 🏆 Milestones & Achievements
+## 🏆 Key Achievements
 
-<div align="center">
-
-| 🎯 Achievement | 🌟 Status | 📈 Progress | 🎖️ Impact |
-|:--------------|:----------|:-----------|:----------|
-| **AI Models in Production** | ✅ Deployed | Multiple Projects | High Performance |
-| **Computer Vision Projects** | 🚀 Advanced | YOLO, Segmentation | Real-time Systems |
-| **Open Source Contributions** | 💎 Active | Regular Commits | Community Impact |
-| **Research & Learning** | 📚 Ongoing | Latest Papers | Cutting Edge |
-
-</div>
-
-<details>
-<summary><b>📈 Detailed Metrics</b></summary>
-<br>
-
-- 🔥 **Models Trained**: 50+ Deep Learning Models
-- 🎯 **Accuracy Achievement**: 95%+ on production models
-- 📦 **Projects Deployed**: Docker + AWS Infrastructure
-- 🌐 **API Endpoints**: RESTful services with FastAPI
-- ⚡ **Optimization**: 3-5x speed improvements with TensorRT
-- 📊 **Datasets Processed**: 100K+ images annotated
-
-</details>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/><br/>
+<b>50+</b><br/>
+AI Models Trained
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/accuracy.png" width="60"/><br/>
+<b>95%+</b><br/>
+Model Accuracy
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/docker.png" width="60"/><br/>
+<b>Multiple</b><br/>
+Production Deployments
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/speed.png" width="60"/><br/>
+<b>3-5x</b><br/>
+Speed Optimization
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Learning Roadmap -->
-## 💡 Current Focus & Roadmap 2025-2026
+## 🎯 Current Focus (2025-2026)
 
-```mermaid
-mindmap
-  root((AI Development))
-    Computer Vision
-      Vision Transformers
-        ViT, SWIN, DeiT
-      3D Computer Vision
-        Point Clouds
-        NeRF
-      Video Analysis
-        Action Recognition
-        Tracking
-    Deep Learning
-      Advanced Architectures
-        Transformers
-        Diffusion Models
-      Multi-modal AI
-        CLIP, DALL-E
-        Vision-Language
-      Few-shot Learning
-        Meta Learning
-        Prototypical Networks
-    MLOps & Production
-      Model Deployment
-        Docker, K8s
-        AWS, Azure
-      Monitoring
-        Model Drift
-        Performance
-      CI/CD
-        GitHub Actions
-        Jenkins
-    Edge AI
-      Optimization
-        TensorRT
-        ONNX Runtime
-      Mobile Deployment
-        TFLite
-        CoreML
-      Embedded Systems
-        Jetson Nano
-        Raspberry Pi
+```
+🔬 Research Areas
+├── Vision Transformers (ViT, SWIN, DeiT)
+├── 3D Computer Vision (Point Clouds, NeRF)
+├── Multi-modal AI (CLIP, Vision-Language Models)
+└── Few-shot Learning & Meta Learning
+
+🛠️ Building
+├── Real-time Object Detection Systems
+├── Edge AI Solutions (TensorRT, ONNX Runtime)
+├── Advanced OCR Pipelines
+└── Video Analysis & Tracking Systems
+
+📚 Learning
+├── Advanced MLOps & Model Monitoring
+├── Kubernetes for ML Deployments
+├── Diffusion Models & Generative AI
+└── Mobile AI (TFLite, CoreML)
 ```
 
 ---
 
-<!-- Contribution Activity -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-  </picture>
-</div>
-
----
-
-<!-- Daily Quote -->
-## 💭 Daily Dev Wisdom
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay)
-
-</div>
-
----
-
-<!-- Collaboration Section -->
-## 🤝 Let's Collaborate & Build Together!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-</picture>
-
-### 💼 I'm Open To:
+## 💡 Featured Projects
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/collaboration.png" width="30"/><br/>
-      <b>AI/ML Collaborations</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/open-source.png" width="30"/><br/>
-      <b>Open Source Projects</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/service.png" width="30"/><br/>
-      <b>Consulting Work</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/speech.png" width="30"/><br/>
-      <b>Tech Talks</b>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🎯 Real-time Object Detection
+Advanced YOLO-based detection system with custom training pipeline
+- **Tech Stack**: PyTorch, YOLO, OpenCV, FastAPI
+- **Features**: Real-time inference, Multi-class detection, API deployment
+- **Performance**: 60+ FPS on GPU, 95%+ mAP
+
+</td>
+<td width="50%">
+
+### 📄 Document Analysis System
+End-to-end OCR and document understanding pipeline
+- **Tech Stack**: PaddleOCR, TensorFlow, Docker
+- **Features**: Text extraction, Layout analysis, Table detection
+- **Accuracy**: 98%+ character accuracy
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖼️ Image Segmentation Tool
+Medical image segmentation with U-Net architecture
+- **Tech Stack**: PyTorch, OpenCV, Flask
+- **Features**: Multi-organ segmentation, Data augmentation
+- **Results**: 94%+ Dice coefficient
+
+</td>
+<td width="50%">
+
+### 🤖 Face Recognition System
+Scalable face recognition with ArcFace embeddings
+- **Tech Stack**: PyTorch, FaceNet, Redis
+- **Features**: 1:N matching, Liveness detection
+- **Scale**: 100K+ faces, <100ms inference
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-### 📬 How to Reach Me:
+## 📈 Experience Highlights
 
-<p>
-  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:tejag078@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-  <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://x.com/gunateja10008">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
-</p>
+**AI Engineer & Computer Vision Specialist**
+- Designed and deployed 15+ production-grade computer vision models
+- Built real-time object detection systems processing 1000+ images/sec
+- Optimized model inference speed by 5x using TensorRT and quantization
+- Developed REST APIs serving 10K+ daily requests with 99.9% uptime
+- Created automated ML pipelines reducing training time by 60%
+- Collaborated with cross-functional teams on enterprise AI solutions
 
-<br>
+**Technical Skills Applied:**
+- Deep Learning: PyTorch, TensorFlow, Keras, ONNX
+- Computer Vision: YOLO, R-CNN, SegNet, OpenCV
+- MLOps: Docker, Kubernetes, AWS, CI/CD
+- APIs: FastAPI, Flask, GraphQL
+- Databases: PostgreSQL, MongoDB, Redis
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</picture>
+---
 
-<br>
+## 🤝 Let's Collaborate!
 
-### ⚡ Fun Facts About Me:
+I'm always interested in working on innovative AI projects and contributing to open source. Here's how we can work together:
 
-- 🎯 I debug neural networks faster than my morning coffee kicks in
-- 🌙 Night owl who codes best after midnight
-- 🎮 Balancing pixels in games and images in CNNs
-- 📚 Always reading papers on arXiv during breakfast
-- 🤖 Dream: Build an AI that explains why my model converges
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60"/><br/>
+<b>AI/ML Projects</b><br/>
+<sub>Research & Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/open-source.png" width="60"/><br/>
+<b>Open Source</b><br/>
+<sub>Community Contributions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/services.png" width="60"/><br/>
+<b>Consulting</b><br/>
+<sub>Technical Advisory</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/speech-bubble.png" width="60"/><br/>
+<b>Tech Talks</b><br/>
+<sub>Knowledge Sharing</sub>
+</td>
+</tr>
+</table>
 
-<br>
+---
 
-**💙 Handcrafted with passion and a lot of caffeine by [Guna Teja](https://github.com/GunaTeja777)**
+## 📫 Contact Me
 
-<sub>*"In AI we trust, in data we learn, in models we optimize"* ✨</sub>
+<div align="center">
 
-<br>
+**Feel free to reach out for collaborations, consulting, or just a chat about AI!**
 
-<i>Last Updated: January 2026</i>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guna-teja-sarvan-patnaik/)
+[![Email](https://img.shields.io/badge/Email-Message_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejag078@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejafolio.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gunateja10008)
 
 </div>
 
-<!-- Footer Wave -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</picture>
+---
+
+## 💭 Fun Facts
+
+- 🎯 I can debug neural networks faster than my coffee brews
+- 🌙 Peak productivity hours: 10 PM - 2 AM
+- 🎮 Gaming enthusiast who appreciates both game graphics and CNN architectures
+- 📚 Daily arXiv paper reader (over breakfast!)
+- 🤖 Dream project: Build an AI that explains why models converge the way they do
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving it a star!
+
+**"In AI we trust, in data we learn, in models we optimize"**
+
+*Last Updated: January 2026*
+
+![Visitor Count](https://profile-counter.glitch.me/GunaTeja777/count.svg)
 
 </div>
