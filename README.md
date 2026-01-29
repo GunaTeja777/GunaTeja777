@@ -10,7 +10,7 @@
 <!-- ===================== MESSI GOAL GIF ===================== -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif"
+    src="[https://media.giphy.com/media/Y2hiDqYe0SJ3zrvKk0/giphy.gif](https://tenor.com/en-GB/view/messi-goal-gif-22224655)"
     width="360"
   />
 </p>
