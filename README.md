@@ -1,10 +1,50 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GUNA%20TEJA%20SARVAN%20PATNAIK&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&color=0:0f2027,50:203a43,100:2c5364"
-  />
+  <svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Background -->
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0f2027"/>
+        <stop offset="50%" stop-color="#203a43"/>
+        <stop offset="100%" stop-color="#2c5364"/>
+      </linearGradient>
+    </defs>
+
+    <rect x="0" y="0" width="900" height="140" rx="18" fill="url(#bg)" />
+
+    <!-- Name -->
+    <text x="450" y="65"
+          text-anchor="middle"
+          font-size="36"
+          font-weight="700"
+          fill="#ffffff"
+          font-family="Segoe UI, Arial">
+      GUNA TEJA SARVAN PATNAIK
+    </text>
+
+    <!-- Subtitle -->
+    <text x="450" y="100"
+          text-anchor="middle"
+          font-size="16"
+          fill="#d1e8ff"
+          font-family="Segoe UI, Arial">
+      AI Engineer • Computer Vision • Machine Learning
+    </text>
+
+    <!-- Football -->
+    <text x="-40" y="92" font-size="28">⚽
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-40 0"
+        to="980 0"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+    </text>
+
+  </svg>
 </p>
 
 <!-- ===================== MESSI GOAL GIF ===================== -->
