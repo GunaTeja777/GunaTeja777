@@ -1,35 +1,44 @@
 <div align="center">
 
-<!-- Header with Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=51"/>
+<!-- Animated Header with Wave -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna%20Teja%20Sarvan%20Patnaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=51"/>
+</picture>
 
-<!-- Animated Typing -->
+<!-- Dynamic Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI+Systems+That+Transform+Industries;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+MLOps;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
 </p>
 
-<!-- Social Badges with Hover Effect -->
+<!-- Connect Section -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Connect+With+Me!" alt="Typing SVG" />
 </h1>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tejag078@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/guna-teja-sarvan-patnaik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tejag078@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://tejafolio.dev/">
-    <img src="https://img.shields.io/badge/⚡_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0088CC" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/⚡_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0088CC" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/gunateja10008"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://stackoverflow.com/users/26361145/teja"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
+  <a href="https://x.com/gunateja10008">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://stackoverflow.com/users/26361145/teja">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+  </a>
 </p>
 
-<!-- Profile Views & Location -->
+<!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GunaTeja777&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-FF9933?style=for-the-badge&labelColor=138808" alt="Location"/>
@@ -40,10 +49,13 @@
 
 ---
 
-<!-- About Me Section with Visual Interest -->
+<!-- About Me Section -->
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</picture>
 
 ```python
 class AIEngineer:
@@ -86,22 +98,32 @@ me.say_hi()
 
 ---
 
-<!-- Tech Stack with Visual Sections -->
+<!-- Tech Stack -->
 ## 💻 Tech Arsenal
 
 <div align="center">
 
-<!-- Animated Section Header -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+<!-- Animated Icons -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+</picture>
 
 </div>
 
-<details open>
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Programming Languages</b></summary>
-<br>
+### 🔤 Programming Languages
 
 <div align="center">
 
@@ -113,15 +135,14 @@ me.say_hi()
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</picture>
 
 </div>
 
-</details>
-
-<details open>
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20"> AI/ML & Deep Learning</b></summary>
-<br>
+### 🤖 AI/ML & Deep Learning
 
 <div align="center">
 
@@ -134,15 +155,14 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</picture>
 
 </div>
 
-</details>
-
-<details open>
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"> Development & DevOps</b></summary>
-<br>
+### 🛠️ Development & DevOps
 
 <div align="center">
 
@@ -154,17 +174,22 @@ me.say_hi()
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</picture>
 
 </div>
 
-</details>
-
-<details open>
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20"> Cloud & Databases</b></summary>
-<br>
+### ☁️ Cloud & Databases
 
 <div align="center">
 
@@ -175,22 +200,29 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+</picture>
 
 </div>
-
-</details>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600">
+</picture>
 </div>
 
 ---
 
-<!-- Expertise Section with Icons -->
+<!-- Expertise Section -->
 ## 🎯 Core Expertise
 
 <table>
@@ -199,19 +231,31 @@ me.say_hi()
 
 ### 👁️ Computer Vision
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Object Detection**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Object Detection**
+
 - YOLO (v5, v7, v8, v9, v11)
 - Faster R-CNN, RetinaNet, EfficientDet
 - Real-time detection systems
 - Custom model training
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Image Segmentation**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Image Segmentation**
+
 - U-Net, DeepLabV3+
 - Mask R-CNN
 - Semantic & Instance Segmentation
 - Medical image segmentation
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Recognition Systems**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Recognition Systems**
+
 - Face Recognition (FaceNet, ArcFace)
 - OCR (Tesseract, EasyOCR, PaddleOCR)
 - Image Classification (ResNet, EfficientNet)
@@ -222,20 +266,32 @@ me.say_hi()
 
 ### 🚀 ML Engineering
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Model Development**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Model Development**
+
 - Neural Architecture Design
 - Transfer Learning & Fine-tuning
 - Custom Loss Functions
 - Data Augmentation Strategies
 - Hyperparameter Optimization
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Optimization**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Optimization**
+
 - Model Quantization (INT8, FP16)
 - Pruning & Compression
 - TensorRT Optimization
 - ONNX Conversion & Deployment
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **Production Deployment**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
+</picture> **Production Deployment**
+
 - REST APIs (FastAPI, Flask)
 - Docker Containerization
 - AWS Cloud Deployment
@@ -248,24 +304,39 @@ me.say_hi()
 
 ---
 
-<!-- GitHub Stats Dashboard -->
+<!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Guna Teja's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="Guna Teja's Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10"/>
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="Streak Stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&exclude_repo=repo1,repo2" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&border_radius=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&border_radius=10"/>
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&border_radius=10" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=GunaTeja777&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="Trophies"/>
+  </picture>
 </div>
 
 ---
@@ -299,7 +370,7 @@ me.say_hi()
 
 ---
 
-<!-- Learning Path Visualization -->
+<!-- Learning Roadmap -->
 ## 💡 Current Focus & Roadmap 2025-2026
 
 ```mermaid
@@ -346,24 +417,17 @@ mindmap
         Raspberry Pi
 ```
 
+---
 
 <!-- Contribution Activity -->
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&custom_title=Guna%20Teja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  </picture>
 </div>
-
----
-
-<!-- Blog Posts Section -->
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical deep-dives on Computer Vision
-- Stay tuned for tutorials on YOLO and TensorRT optimization
-- Follow me for updates on AI research and implementation
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -378,12 +442,15 @@ mindmap
 
 ---
 
-<!-- Connect Section with Call to Action -->
+<!-- Collaboration Section -->
 ## 🤝 Let's Collaborate & Build Together!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+</picture>
 
 ### 💼 I'm Open To:
 
@@ -429,11 +496,15 @@ mindmap
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</picture>
 
 <br>
 
 ### ⚡ Fun Facts About Me:
+
 - 🎯 I debug neural networks faster than my morning coffee kicks in
 - 🌙 Night owl who codes best after midnight
 - 🎮 Balancing pixels in games and images in CNNs
@@ -448,11 +519,14 @@ mindmap
 
 <br>
 
-<i>Last Updated: December 2026</i>
+<i>Last Updated: January 2026</i>
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</picture>
 
 </div>
