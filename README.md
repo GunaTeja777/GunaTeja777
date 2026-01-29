@@ -158,15 +158,6 @@
 
 ## 📊 SEASON PERFORMANCE DASHBOARD
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=e6ccff&icon_color=a366ff&text_color=d699ff&border_radius=10" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=e6ccff&text_color=d699ff&border_radius=10&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=GunaTeja777&theme=tokyonight&hide_border=true&background=1a0033&stroke=7d3cff&ring=a366ff&fire=ff6b6b&currStreakLabel=e6ccff&sideNums=d699ff&sideLabels=e6ccff&dates=b8a3d9&border_radius=10" alt="GitHub Streak"/>
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GunaTeja777&theme=tokyo-night&bg_color=1a0033&color=e6ccff&line=a366ff&point=d699ff&area=true&hide_border=true&custom_title=⚽%20Training%20Ground%20Activity%20|%20Commits%20Timeline" alt="Activity Graph"/>
 
 </div>
