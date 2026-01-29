@@ -4,10 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=GUNA%20TEJA%20SARVAN%20PATNAIK%20⚽&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Machine%20Learning&descAlignY=62&descSize=18&color=0:0b1d26,50:12343b,100:1b5e63" />
 </p>
 
-<!-- ===================== MESSI GOAL GIF ===================== -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNpNmltbXNkenFzY3c1cDl1b29oYmY1b2tlODJjcTFhZDl3cTU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2hiDqYe0SJ3zrvKk0/giphy.gif" width="480" alt="Messi Goal" />
-</p>
+
 
 <!-- ===================== TAGLINE ===================== -->
 <h3 align="center">
