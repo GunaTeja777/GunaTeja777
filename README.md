@@ -15,6 +15,30 @@
 
 ---
 
+## 👋 Who Am I?
+
+🎯 AI Engineer building **production-grade computer vision systems**  
+⚡ Obsessed with performance, latency & deployment  
+🧠 Turning research papers into real-world AI  
+
+> *“The best model isn’t the most complex — it’s the one running in production.”*
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git" />
+</p>
+
+python
+stack = {
+    "languages": ["Python", "Java", "C"],
+    "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
+    "vision": ["OpenCV", "YOLOv8", "PaddleOCR", "U-Net"],
+    "current_focus": ["Vision Transformers", "NeRF", "Edge Optimization"]
+}
+
 ## 📬 Get In Touch
 
 <p align="center">
