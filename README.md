@@ -1,5 +1,5 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">🚀 Guna Teja</h1>
+<h1 align="center">Guna Teja</h1>
 <h3 align="center">AI Vision Engineer • Computer Vision • Edge AI</h3>
 
 <p align="center">
