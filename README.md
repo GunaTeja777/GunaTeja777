@@ -31,26 +31,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git" />
 </p>
 
-python
+```python
 stack = {
     "languages": ["Python", "Java", "C"],
     "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
     "vision": ["OpenCV", "YOLOv8", "PaddleOCR", "U-Net"],
     "current_focus": ["Vision Transformers", "NeRF", "Edge Optimization"]
 }
-
-## 📬 Get In Touch
-
-<p align="center">
-  <a href="mailto:gunatejawork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gunatejawork%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GunaTeja777">
-    <img src="https://img.shields.io/badge/GitHub-@GunaTeja777-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://tejafolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-tejafolio.dev-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
+<br> <h2 align="center">📬 Get In Touch</h2> <p align="center"> <a href="mailto:gunatejawork@gmail.com"> <img src="https://img.shields.io/badge/Email-gunatejawork%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/GunaTeja777"> <img src="https://img.shields.io/badge/GitHub-@GunaTeja777-black?style=for-the-badge&logo=github"/> </a> <a href="https://tejafolio.dev"> <img src="https://img.shields.io/badge/Portfolio-tejafolio.dev-blue?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
