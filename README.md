@@ -28,10 +28,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git" />
+</p>
+
 ### 🔥 Current Focus
-![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-FF6B6B?style=for-the-badge)
-![NeRF](https://img.shields.io/badge/NeRF-4ECDC4?style=for-the-badge)
-![Edge AI](https://img.shields.io/badge/Edge_Optimization-95E1D3?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vision_Transformers-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NeRF-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edge_Optimization-95E1D3?style=for-the-badge"/>
+</p>
 
 ---
 
