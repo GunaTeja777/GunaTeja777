@@ -27,7 +27,7 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,typescript,react,huggingface" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,typescript,react,fastapi" />
 </p>
 
 ### 🔥 Current Focus
