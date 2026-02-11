@@ -28,15 +28,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git" />
-</p>
-```python
-stack = {
-    "languages": ["Python", "Java", "C"],
-    "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
-    "vision": ["OpenCV", "YOLOv8", "PaddleOCR", "U-Net"],
-    "current_focus": ["Vision Transformers", "NeRF", "Edge Optimization"]
-}
-```
+### 🔥 Current Focus
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-FF6B6B?style=for-the-badge)
+![NeRF](https://img.shields.io/badge/NeRF-4ECDC4?style=for-the-badge)
+![Edge AI](https://img.shields.io/badge/Edge_Optimization-95E1D3?style=for-the-badge)
 
 ---
 
