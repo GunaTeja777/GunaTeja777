@@ -27,7 +27,7 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git" />
+  <img src="[https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,docker,linux,git](https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,typescript,react,pytorch)" />
 </p>
 
 ### 🔥 Current Focus
