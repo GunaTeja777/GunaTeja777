@@ -2,7 +2,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 5em; letter-spacing: 10px; color: #333; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
   GTSP
 </h1>
-<h3 align="center">AI Vision Engineer • Computer Vision • Edge AI</h3>
+<h3 align="center"> • Computer Vision • Edge AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Vision+Systems;Production-Ready+AI+Engineer;Deep+Learning+%7C+Computer+Vision;Edge+AI+Optimization" />
