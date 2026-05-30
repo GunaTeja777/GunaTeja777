@@ -1,5 +1,5 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 5em; letter-spacing: 10px; color: #333; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+<h1 align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 5em; letter-spacing: 10px; color: #333; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
   GTSP
 </h1>
 <h3 align="center"> Computer Vision • Edge AI</h3>
