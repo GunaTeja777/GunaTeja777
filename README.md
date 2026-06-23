@@ -4,8 +4,8 @@
 </h1>
 <h3 align="center"> Computer Vision • Edge AI</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=800&lines=Building+LLM-Powered+AI+Systems;Computer+Vision+%7C+Edge+AI+%7C+Multimodal;NLP+%7C+Agents+%7C+Generative+AI;Production-Ready+AI+Engineer" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+LLM-Powered+AI+Systems;Computer+Vision+%7C+Edge+AI+%7C+Multimodal;NLP+%7C+Agents+%7C+Generative+AI;Production-Ready+AI+Engineer" />
+</p>  
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India_🇮🇳-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Specialization-Computer_Vision-purple?style=for-the-badge"/>
