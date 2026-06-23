@@ -3,37 +3,34 @@
   GTSP
 </h1>
 <h3 align="center"> Computer Vision • Edge AI</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Vision+Systems;Production-Ready+AI+Engineer;Deep+Learning+%7C+Computer+Vision;Edge+AI+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=800&lines=Building+LLM-Powered+AI+Systems;Computer+Vision+%7C+Edge+AI+%7C+Multimodal;NLP+%7C+Agents+%7C+Generative+AI;Production-Ready+AI+Engineer" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India_🇮🇳-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Specialization-Computer_Vision-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Edge_AI-orange?style=for-the-badge"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GunaTeja777&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=10543"/>
+</p>
 
 ---
 
 ## 👋 Who Am I?
-
 🎯 AI Engineer building **production-grade computer vision systems**  
 ⚡ Obsessed with performance, latency & deployment  
 🧠 Turning research papers into real-world AI  
-
 > *"The best model isn't the most complex — it's the one running in production."*
 
 ---
 
 ## ⚙️ Tech Arsenal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,typescript,react,fastapi" />
 </p>
 
 ### 🔥 Current Focus
-
 <p align="center">
   <img src="https://img.shields.io/badge/Vision_Transformers-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NeRF-4ECDC4?style=for-the-badge"/>
@@ -43,7 +40,6 @@
 ---
 
 <h2 align="center">📬 Get In Touch</h2>
-
 <p align="center">
   <a href="mailto:gunatejawork@gmail.com">
     <img src="https://img.shields.io/badge/Email-gunatejawork%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
