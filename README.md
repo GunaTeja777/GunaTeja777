@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Focus-Edge_AI-orange?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GunaTeja777&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=10543"/>
+  <img src="https://komarev.com/ghpvc/?username=GunaTeja777&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=1554"/>
 </p>
 
 ---
