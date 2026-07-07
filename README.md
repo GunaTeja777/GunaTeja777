@@ -2,7 +2,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 5em; letter-spacing: 10px; color: #333; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
   GTSP
 </h1>
-<h3 align="center"> Computer Vision • Edge AI</h3>
+<h3 align="center"> AI• ML</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+LLM-Powered+AI+Systems;Computer+Vision+%7C+Edge+AI+%7C+Multimodal;NLP+%7C+Agents+%7C+Generative+AI;Production-Ready+AI+Engineer" />
 </p>  
@@ -18,7 +18,7 @@
 ---
 
 ## 👋 Who Am I?
-🎯 AI Engineer building **production-grade computer vision systems**  
+🎯 AI Engineer building **production-grade AI Applications**  
 ⚡ Obsessed with performance, latency & deployment  
 🧠 Turning research papers into real-world AI  
 > *"The best model isn't the most complex — it's the one running in production."*
