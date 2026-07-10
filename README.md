@@ -1,86 +1,72 @@
-<h1 align="center">Hi, I'm Guna Teja 👋</h1>
-<p align="center"><i>AI/ML Engineer · Building agentic systems, evaluation frameworks & the occasional pixel-art robot</i></p>
+### What's Up?
 
-<br>
+I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-<table>
-<tr>
-<td valign="top">
+[<img src="https://hyperweave.app/v1/stats/eli64s/automata?variant=bone" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
-<img src="ascii_face.png" width="320" alt="ASCII portrait"/>
+<!--
+[<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
+-->
 
-</td>
-<td valign="top">
+<!--
+<img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%">
+-->
 
-```
-guna@teja  --------------------------------
-Role: ................. AI/ML Engineer, India
-Focus: .......... Agentic Systems, LLM Eval,
-                   MLOps, Pose Estimation
-IDE: ........................ VS Code, PyCharm
+### Open Source Projects
 
-Languages.Programming: ... Python, JavaScript,
-                            TypeScript, Java
-Languages.Frameworks: .... FastAPI, React,
-                            LangChain, PyTorch,
-                            scikit-learn
-Languages.Human: ................ English, Telugu
+- **[HyperWeave][hyperweave]**: Portable visual output layer for agents.
+- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
+- **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
+- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
-Currently Building -----------------------------
-MATVL: ....... Multi-Model AI Trust Verification
-                Layer — hallucination detection
-                via conformal prediction
-SRE Agent: ... Autonomous SRE agent w/ Prometheus
-                + LLM-driven remediation
-CareerOS: .... Voice intelligence w/ live
-                follow-up question engine
-Bharatanatyam ITS: MediaPipe pose estimation +
-                    GenAI dance feedback
 
-Hobbies.Tech: ........ AI agent design, UI/UX
-Hobbies.Other: ....... Bharatanatyam (classical
-                        Indian dance)
+<!--
+<div align="center">
+  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
+-->
 
-Contact -----------------------------------------
-Email: .................. gunatejawork@gmail.com
-GitHub: .......................... GunaTeja777
-Portfolio: ....................... tejafolio.dev
-```
+<!-- 
+### 🔷 Professional Experience
 
-</td>
-</tr>
-</table>
+- **Software Engineering, AI** @Capital One | _Present_
+- **Data Engineering** @United Airlines @GM
+- **M.S. in Computer Science** @University of Pennsylvania
+- **B.S. in Industrial Engineering** @Purdue University
 
-<br>
+<div align="center">
+  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
 
-<h3>📊 GitHub Stats</h3>
+### 🔵 Connect
+-->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=AAFF00&icon_color=AAFF00&text_color=ffffff&border_color=AAFF00" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaTeja777&layout=compact&theme=dark&bg_color=0D0D0D&title_color=AAFF00&text_color=ffffff&border_color=AAFF00" height="165" alt="Top langs"/>
-</p>
+### Let's Connect
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GunaTeja777&theme=dark&background=0D0D0D&ring=AAFF00&fire=FF2D78&currStreakLabel=AAFF00&border=AAFF00" alt="GitHub streak"/>
-</p>
+[<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=graphite" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=graphite" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=graphite" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=graphite" alt="X"/>][x]
 
-<h3>🛠️ Tech Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=AAFF00" />
-  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=AAFF00" />
-  <img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=FF2D78" />
-  <img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=3B9EFF" />
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=3B9EFF" />
-  <img src="https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=FF4D4D" />
-</p>
+<!-- <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;"> -->
 
-<h3>🔗 Connect</h3>
+<!-- <div align="center">
+  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div> -->
 
-<p>
-  <a href="https://tejafolio.dev"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=AAFF00" /></a>
-  <a href="mailto:gunatejawork@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF2D78" /></a>
-  <a href="https://github.com/GunaTeja777"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-</p>
+<!-- REFERENCE LINKS -->
+<!-- GITHUB PROFILE -->
+[github-profile]: https://github.com/eli64s
 
-<p align="center"><sub>Lime green never dies · <code>#0D0D0D</code> / <code>#AAFF00</code></sub></p>
+<!-- OPEN SOURCE -->
+[hyperweave]: https://github.com/InnerAura/hyperweave
+[readme-ai]: https://github.com/eli64s/readme-ai
+[markitect]: https://github.com/eli64s/markitecture
+[openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
+
+<!-- CONTACT -->
+[gmail]: mailto:egsalamie@gmail.com
+[linkedin]: https://www.linkedin.com/in/elisalamie
+[x]: https://x.com/eli64s
+[instagram]: https://www.instagram.com/0x.eli
