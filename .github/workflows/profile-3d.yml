@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *" # Runs daily
   workflow_dispatch: # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
