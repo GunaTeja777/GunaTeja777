@@ -1,12 +1,12 @@
 ```markdown
 ### What's Up?
 
-I'm **Guna Teja**, currently building intelligent AI systems, machine learning applications, and open-source developer tools. Cheers!
+I’m **Guna Teja**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/GunaTeja777/automata?variant=bone" alt="Guna Teja's GitHub Stats" width="495" />][github-profile]
 
 <!--
-[<img src="https://hyperweave.app/v1/chart/stars/GunaTeja777/YOUR_REPOSITORY/automata.static?variant=bone" alt="Repository Star History" width="495" />][repository]
+[<img src="https://hyperweave.app/v1/chart/stars/GunaTeja777/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
 <!--
@@ -15,9 +15,9 @@ I'm **Guna Teja**, currently building intelligent AI systems, machine learning a
 
 ### Open Source Projects
 
-- **[Project One][project-one]**: Short description of your primary open-source project.
-- **[Project Two][project-two]**: Short description of your second project.
-- **[Project Three][project-three]**: Short description of your third project.
+- **[HyperWeave][hyperweave]**: Portable visual output layer for agents.
+- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
+- **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <!--
@@ -26,10 +26,13 @@ I'm **Guna Teja**, currently building intelligent AI systems, machine learning a
 </div>
 -->
 
-<!--
+<!-- 
 ### 🔷 Professional Experience
 
-- **AI & Machine Learning Engineer** | _Present_
+- **Software Engineering, AI** @Capital One | _Present_
+- **Data Engineering** @United Airlines @GM
+- **M.S. in Computer Science** @University of Pennsylvania
+- **B.S. in Industrial Engineering** @Purdue University
 
 <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -45,30 +48,26 @@ I'm **Guna Teja**, currently building intelligent AI systems, machine learning a
 [<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=graphite" alt="Instagram"/>][instagram]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=graphite" alt="X"/>][x]
 
-<!--
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;">
--->
 
-<!--
-<div align="center">
+<!-- <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;"> -->
+
+<!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
--->
+</div> -->
 
 <!-- REFERENCE LINKS -->
-
 <!-- GITHUB PROFILE -->
 [github-profile]: https://github.com/GunaTeja777
 
 <!-- OPEN SOURCE -->
-[project-one]: https://github.com/GunaTeja777/YOUR_PROJECT
-[project-two]: https://github.com/GunaTeja777/YOUR_PROJECT
-[project-three]: https://github.com/GunaTeja777/YOUR_PROJECT
+[hyperweave]: https://github.com/InnerAura/hyperweave
+[readme-ai]: https://github.com/GunaTeja777/readme-ai
+[markitect]: https://github.com/GunaTeja777/markitecture
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->
 [gmail]: mailto:gunatejawork@gmail.com
 [linkedin]: https://www.linkedin.com/in/guna-teja-sarvan-patnaik/
-[x]: https://x.com/YOUR_USERNAME
-[instagram]: https://www.instagram.com/YOUR_USERNAME
+[x]: https://x.com/GunaTeja777
+[instagram]: https://www.instagram.com/0x.eli
 ```
