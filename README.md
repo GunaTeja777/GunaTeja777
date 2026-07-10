@@ -7,35 +7,7 @@
 <tr>
 <td valign="top">
 
-```
-tt/(1{}[[[[[]][}{]i!:l^"":::,",ll:,:;:li>;i}frjfffffffffffftffft
-wwmLYYzvuuvvvczr)+>>II:<!,:,^":::lI:,III+?~_jXZbbdpppppppppqqqqq
-OO0JzYYcvccczv[lI:"`'^,I". '":,,;-ilI^llIi>>i~?fXZwwwmmmmmmmmmmm
-ZmOCXYUzczzzr<""^"^^`i; '`^^;;",^:lli`^;;:,Il>~}+Ydwwwwwwwwwwwwm
-mmZCYUUXzzzY(.'```^`^,^'`^:^.`lI^`^^`  'l<i;,I>~~|qqqqqqqqwwwwww
-mmZLYJJYzXzYf^. .^'"^' .;<~~?(fruxf\1+I`."lil<l:-[mqqqqpqqqqqqwq
-wwmLUJCYXXXz~'...``,;i~}tuYCQZqdhhbddwCx)i',,,;i~+rdppppppppqqqq
-wqwQUCCUXYYvI.'. '^>]{(fxzJLOwqdhhkhaahkdL[;;.iII_rdpppppppppppp
-qqwQJCLUYYYz<.' '"I?[{|rzCOwppdkdqpbkkkbddJ+I`'^i-Udpddppddppppp
-ppq0CLLJYUYYu>...`~?_}/nUOpko#*obhW%%%Woqmw|+!;<+)qdddddddddddpp
-pdp0CQQJUUUYC\ . !?+--_-_[tz0pdkdpwmXczLQUCx;>+l)Zdddddddddddddd
-ddpOL00CUUUUJr>.'[[]-?[-]]~-1r0hqCu\}(nzLwOO1^:[Okdddddddddddddd
-dbdZL00CJJUJc?|_I111-])])v1-?xkWaqcf[}YJu0bdx_JQdkdbbbbbbbdddddd
-bkdZQOOLJJUCx?1--1|uUUYYzn\}\CaMMhkpOZpha#okYw$qbhbbbbbbbbbbbbdd
-kkbZQOZLJJJJX[_<+{|vCOmOJr/juQM@B&#MWWM&BBWhOCphhkbbbkbbbbbbbbdd
-kkbm0ZmQCCJJCx[}>[|rULQCf)jjtcd8#hWWwb&$$BWwUbddbbbbbbbbbkbbbbbd
-khkm0mm0CCCJJCcj{_{|xuvt1}_<_(zJJYwWa0qk*oaCp8hddbbbbbbbbbbbbbbd
-hhkm0mw0CCJJJJCLY-]{|(-!>]})fzCULLCQv/0kbbdJdkddbbbbbbbbbkbbbbbd
-hahwOmmO00QLCJUYU1+]{1jx-[uLp**&*ohu\|Uakd0Qkdbbbbbbbkkkbbbbbbdd
-hahmOppCn\{?+~<>>i!-]}jYj1\XqMMaokdk#addpCJbbbbbkkbkkkkkbbbbbbbd
-hahwOv]I^^^",:;;IIIi~?)frt/tuczYqa#M#odOXvphbbkkkkbbbbbbbkbbbbdd
-aaaO_''^,::;;IIIIl!-<l~)nYzUUCOqa##M#pzuOz}0hbbbbbbbbbbbbbbbbbbd
-aoh? ^""",:;;IIlI::_?+!!-(fc0pQwhbadv\Xdhn<[Qkhaahhhkbbbdddddddd
-h*L`'`^^",::::,,`:i-??]+l;l+]+>]{||tXd*hdU-]+[|fzCQOwdkkhhhkbddp
-#8c ^^",,"^``''`>]?--[{1}-+~~]\rcLmko*oodwt-+i>>l!>i~]})/xXLZwpb
-n\+,:,,,"`````'`>[?--[(tj\1|trYOpkkdba*akb/_+>_+>>ii!llIIl!>~_?}
-^^,:::,,,"^^^"^`,?{][})fvcrrYQ0mbaakdbbkhc_+<!+~ii!l!iiii>>>ii;;
-```
+<img src="ascii_face.png" width="320" alt="ASCII portrait"/>
 
 </td>
 <td valign="top">
