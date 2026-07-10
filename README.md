@@ -1,6 +1,6 @@
 ### What's Up?
 
-I’m **Guna Teja**, currently building [HyperWeave], a visual output layer for agents. Cheers!
+I’m **Guna Teja**, currently building intelligent AI systems and open-source machine learning applications. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/GunaTeja777/automata?variant=bone" alt="Guna Teja's GitHub Stats" width="495" />][github-profile]
 
