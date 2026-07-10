@@ -4,6 +4,10 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 
 [<img src="https://hyperweave.app/v1/stats/GunaTeja777/automata?variant=bone" alt="Guna Teja's GitHub Stats" width="495" />][github-profile]
 
+### 3D Contributions
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ### Let's Connect
 
 [<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=graphite" alt="Email"/>][gmail]&emsp;
