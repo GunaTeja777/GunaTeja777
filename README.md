@@ -13,13 +13,6 @@ I’m **Guna Teja**, currently building [HyperWeave], a visual output layer for 
 <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%">
 -->
 
-### Open Source Projects
-
-- **[HyperWeave][hyperweave]**: Portable visual output layer for agents.
-- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
-- **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
-- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
-
 <!--
 <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -48,7 +41,6 @@ I’m **Guna Teja**, currently building [HyperWeave], a visual output layer for 
 [<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=graphite" alt="Instagram"/>][instagram]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=graphite" alt="X"/>][x]
 
-
 <!-- <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;"> -->
 
 <!-- <div align="center">
@@ -56,18 +48,13 @@ I’m **Guna Teja**, currently building [HyperWeave], a visual output layer for 
 </div> -->
 
 <!-- REFERENCE LINKS -->
+
 <!-- GITHUB PROFILE -->
 [github-profile]: https://github.com/GunaTeja777
-
-<!-- OPEN SOURCE -->
-[hyperweave]: https://github.com/InnerAura/hyperweave
-[readme-ai]: https://github.com/GunaTeja777/readme-ai
-[markitect]: https://github.com/GunaTeja777/markitecture
-[openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->
 [gmail]: mailto:gunatejawork@gmail.com
 [linkedin]: https://www.linkedin.com/in/guna-teja-sarvan-patnaik/
-[x]: https://x.com/GunaTeja777
+[x]: https://x.com/eli64s
 [instagram]: https://www.instagram.com/0x.eli
 ```
