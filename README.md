@@ -1,72 +1,52 @@
-### What's Up?
+## What's Up?
 
-I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
+I'm **Guna Teja**, an AI & Machine Learning Engineer passionate about building intelligent systems, computer vision applications, and developer tools. Currently exploring LLMs, autonomous AI agents, and production-ready ML systems.
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/automata?variant=bone" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://github-readme-stats.vercel.app/api?username=GunaTeja777&show_icons=true&theme=transparent" alt="Guna Teja's GitHub Stats" width="495" />][github-profile]
 
-<!--
-[<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
--->
-
-<!--
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%">
--->
-
-### Open Source Projects
-
-- **[HyperWeave][hyperweave]**: Portable visual output layer for agents.
-- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
-- **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
-- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
+---
 
 
-<!--
-<div align="center">
-  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
--->
+## Tech Stack
 
-<!-- 
-### 🔷 Professional Experience
+**Languages**
 
-- **Software Engineering, AI** @Capital One | _Present_
-- **Data Engineering** @United Airlines @GM
-- **M.S. in Computer Science** @University of Pennsylvania
-- **B.S. in Industrial Engineering** @Purdue University
+- Python
+- Java
+- C
+- Dart
 
-<div align="center">
-  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
+**AI & ML**
 
-### 🔵 Connect
--->
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- YOLO
 
-### Let's Connect
+**Tools**
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=graphite" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=graphite" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=graphite" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=graphite" alt="X"/>][x]
+- Git
+- GitHub
+- Flutter
+- Docker
+- VS Code
 
+---
 
-<!-- <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;"> -->
+## Let's Connect
 
-<!-- <div align="center">
-  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div> -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)][github-profile]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)][gmail]
+
+---
 
 <!-- REFERENCE LINKS -->
-<!-- GITHUB PROFILE -->
-[github-profile]: https://github.com/eli64s
 
-<!-- OPEN SOURCE -->
-[hyperweave]: https://github.com/InnerAura/hyperweave
-[readme-ai]: https://github.com/eli64s/readme-ai
-[markitect]: https://github.com/eli64s/markitecture
-[openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
-
-<!-- CONTACT -->
-[gmail]: mailto:egsalamie@gmail.com
-[linkedin]: https://www.linkedin.com/in/elisalamie
-[x]: https://x.com/eli64s
-[instagram]: https://www.instagram.com/0x.eli
+[github-profile]: https://github.com/GunaTeja777
+[linkedin]: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+[gmail]: mailto:YOUR_EMAIL@example.com
