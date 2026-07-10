@@ -17,5 +17,5 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 
 [gmail]: mailto:gunatejawork@gmail.com
 [linkedin]: https://www.linkedin.com/in/guna-teja-sarvan-patnaik/
-[x]: https://x.com/eli64s
-[instagram]: https://www.instagram.com/0x.eli
+[x]: https://x.com/gunateja10008
+[instagram]: https://www.instagram.com
