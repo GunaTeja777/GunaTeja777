@@ -1,21 +1,19 @@
-from http.server import BaseHTTPRequestHandler
 import urllib.request
 import json
 
-class handler(BaseHTTPRequestHandler):
-    def do_GET(self):
-        views = 0
-        try:
-            # Fetch count and increment it (hit endpoint)
-            url = "https://countapi.mileshilliard.com/api/v1/hit/GunaTeja777_readme"
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req) as response:
-                data = json.loads(response.read().decode())
-                views = data.get("value", 0) + 2579
-        except Exception as e:
-            views = 2579  # fallback
+def app(environ, start_response):
+    views = 0
+    try:
+        # Fetch count and increment it (hit endpoint) with timeout
+        url = "https://countapi.mileshilliard.com/api/v1/hit/GunaTeja777_readme"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=5) as response:
+            data = json.loads(response.read().decode())
+            views = data.get("value", 0) + 2579
+    except Exception as e:
+        views = 2579  # fallback
 
-        svg_template = f"""<svg xmlns="http://www.w3.org/2000/svg" width="195" height="195" viewBox="0 0 195 195">
+    svg_template = f"""<svg xmlns="http://www.w3.org/2000/svg" width="195" height="195" viewBox="0 0 195 195">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&amp;family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
@@ -86,12 +84,13 @@ class handler(BaseHTTPRequestHandler):
   </g>
 </svg>
 """
-        
-        self.send_response(200)
-        self.send_header('Content-type', 'image/svg+xml')
-        self.send_header('Cache-Control', 'no-cache, no-store, must-revalidate')
-        self.send_header('Pragma', 'no-cache')
-        self.send_header('Expires', '0')
-        self.end_headers()
-        self.wfile.write(svg_template.encode('utf-8'))
-        return
+
+    status = '200 OK'
+    headers = [
+        ('Content-type', 'image/svg+xml'),
+        ('Cache-Control', 'no-cache, no-store, must-revalidate'),
+        ('Pragma', 'no-cache'),
+        ('Expires', '0')
+    ]
+    start_response(status, headers)
+    return [svg_template.encode('utf-8')]
