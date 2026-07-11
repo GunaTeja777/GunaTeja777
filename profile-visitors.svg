@@ -56,7 +56,7 @@
   <line x1="15" y1="33" x2="180" y2="33" class="divider" />
 
   <!-- Value -->
-  <text x="97.5" y="110" text-anchor="middle" class="giant-number">14</text>
+  <text x="97.5" y="110" text-anchor="middle" class="giant-number">2594</text>
 
   <!-- Footer Divider -->
   <line x1="15" y1="150" x2="180" y2="150" class="divider" />

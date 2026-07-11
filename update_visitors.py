@@ -9,7 +9,7 @@ try:
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     with urllib.request.urlopen(req) as response:
         data = json.loads(response.read().decode())
-        views = data.get("value", 0)
+        views = data.get("value", 0) + 2579
     print(f"Current views: {views}")
 except Exception as e:
     print(f"Error fetching views: {e}")
