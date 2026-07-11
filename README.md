@@ -4,7 +4,7 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 
 [<img src="https://hyperweave.app/v1/stats/GunaTeja777/automata?variant=bone" alt="Guna Teja's GitHub Stats" width="495" align="left" />][github-profile]
 &nbsp;
-[<img src="https://guna-teja777-git-main-guna-teja-s-projects.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" />][github-profile]
+[<img src="https://guna-teja777.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" />][github-profile]
 
 <br clear="left"/>
 
