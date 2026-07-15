@@ -19,7 +19,7 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 [<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=graphite" alt="Instagram"/>][instagram]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=graphite" alt="X"/>][x]
 
-<!-- REFERENCE LINKS -->
+<!-- REFERENCE LINKS  -->
 
 [github-profile]: https://github.com/GunaTeja777
 
