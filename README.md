@@ -15,6 +15,8 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
   <img src="https://hyperweave.app/v1/icon/fastapi/automata.static?shape=square&variant=bone" width="55"/>
 </p>
 
+[<img src="https://guna-teja777.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" />][github-profile]
+
 <br clear="left"/>
 
 ### 3D Contributions
