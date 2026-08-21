@@ -2,8 +2,18 @@
 
 I’m **Guna Teja**, currently building intelligent AI systems and open-source machine learning applications. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/GunaTeja777/automata?variant=bone" alt="Guna Teja's GitHub Stats" width="495" align="left" />][github-profile]
-&nbsp;
+<h3>⚡ Tech Stack</h3>
+
+<p>
+  <img src="https://hyperweave.app/v1/icon/python/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/pytorch/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/tensorflow/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/sklearn/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/langchain/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/github/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/docker/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/fastapi/automata.static?shape=square&variant=bone" width="55"/>
+</p>
 [<img src="https://guna-teja777.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" />][github-profile]
 
 <br clear="left"/>
