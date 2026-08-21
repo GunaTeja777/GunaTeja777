@@ -7,13 +7,17 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 <p align="center">
   <img src="https://hyperweave.app/v1/icon/python/automata.static?shape=square&variant=bone" width="55"/>
   <img src="https://hyperweave.app/v1/icon/langchain/automata.static?shape=square&variant=bone" width="55"/>
-  <img src="https://hyperweave.app/v1/icon/anthropic/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/kubernetes/automata.static?shape=square&variant=bone" width="55"/>
   <img src="https://hyperweave.app/v1/icon/qdrant/automata.static?shape=square&variant=bone" width="55"/>
   <img src="https://hyperweave.app/v1/icon/docker/automata.static?shape=square&variant=bone" width="55"/>
-  <img src="https://hyperweave.app/v1/icon/langfuse/automata.static?shape=square&variant=bone" width="55"/>
+  <img src="https://hyperweave.app/v1/icon/tensorflow/automata.static?shape=square&variant=bone" width="55"/>
 </p>
 
+<p align="center">
+
 [<img src="https://guna-teja777.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" />][github-profile]
+
+</p>
 
 <br clear="center"/>
 
