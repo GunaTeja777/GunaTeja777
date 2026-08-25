@@ -13,9 +13,16 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 
 <p align="center">
 
-[<img src="https://guna-teja777.vercel.app/api/visitors?v=2" alt="Profile Visitors" height="195" width="1000" />][github-profile]
+<img 
+src="https://guna-teja777.vercel.app/api/visitors?v=2" 
+alt="Profile Visitors"
+width="500"
+/>
 
 </p>
+
+<br>
+
 <br clear="center"/>
 
 ### 3D Contributions
