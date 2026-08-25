@@ -12,14 +12,15 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 </p>
 
 <p align="center">
-
-<img 
-src="https://guna-teja777.vercel.app/api/visitors?v=2" 
-alt="Profile Visitors"
-width="500"
-/>
-
+  <a href="https://github.com/GunaTeja777">
+    <img
+      src="https://guna-teja777.vercel.app/api/visitors?v=2"
+      alt="Profile Visitors"
+      width="220"
+    />
+  </a>
 </p>
+
 
 <br>
 
