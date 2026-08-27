@@ -25,10 +25,6 @@ I’m **Guna Teja**, currently building intelligent AI systems and open-source m
 <br>
 
 <br clear="center"/>
-
-### 3D Contributions
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ### Let's Connect
 [<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=graphite" alt="Email"/>][gmail] 
 [<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=graphite" alt="LinkedIn"/>][linkedin] 
