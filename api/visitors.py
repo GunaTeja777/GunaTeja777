@@ -18,9 +18,9 @@ def app(environ, start_response):
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&amp;family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
       .box-bg {{
-        fill: #030712;
-        stroke: #3B82F6;
-        stroke-opacity: 0.2;
+        fill: url(#boxGradient);
+        stroke: #93C5FD;
+        stroke-opacity: 0.35;
         stroke-width: 1px;
         rx: 6px;
       }}
@@ -28,60 +28,87 @@ def app(environ, start_response):
         font-family: 'Orbitron', sans-serif;
         font-size: 10px;
         font-weight: 700;
-        fill: #7DD3FC;
+        fill: #E0F2FE;
         letter-spacing: 0.12em;
       }}
       .subtitle-text {{
         font-family: 'Share Tech Mono', monospace;
         font-size: 8px;
-        fill: #4E7FAE;
+        fill: #BFDBFE;
       }}
       .divider {{
-        stroke: #3B82F6;
-        stroke-opacity: 0.15;
+        stroke: #E0F2FE;
+        stroke-opacity: 0.25;
         stroke-width: 1px;
       }}
       .giant-number {{
         font-family: 'Chakra Petch', sans-serif;
         font-size: 54px;
         font-weight: 700;
-        fill: url(#numberGradient);
+        fill: #FFFFFF;
         filter: url(#softGlow);
       }}
       .status-text {{
         font-family: 'Share Tech Mono', monospace;
         font-size: 8px;
-        fill: #93C5FD;
+        fill: #E0F2FE;
       }}
       @keyframes blink {{
         0%, 100% {{ opacity: 0.3; }}
         50% {{ opacity: 1; }}
       }}
+      @keyframes pulseGlow {{
+        0%, 100% {{ opacity: 0.6; }}
+        50% {{ opacity: 1; }}
+      }}
+      @keyframes scan {{
+        0% {{ transform: translateY(-195px); }}
+        100% {{ transform: translateY(195px); }}
+      }}
       .blinker {{
         animation: blink 2s infinite;
-        fill: #22D3EE;
+        fill: #A7F3D0;
+      }}
+      .pulse-ring {{
+        animation: pulseGlow 3s infinite;
+      }}
+      .scan-line {{
+        animation: scan 4s linear infinite;
       }}
     </style>
-    <linearGradient id="numberGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#E0F2FE" />
-      <stop offset="100%" stop-color="#7DD3FC" />
+
+    <linearGradient id="boxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D4ED8" />
+      <stop offset="55%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1E3A8A" />
     </linearGradient>
-    <radialGradient id="cornerGlow" cx="100%" cy="0%" r="75%">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.12" />
-      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+
+    <radialGradient id="cornerGlow" cx="100%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#BFDBFE" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#BFDBFE" stop-opacity="0" />
     </radialGradient>
+
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.4" result="blur" />
+      <feGaussianBlur stdDeviation="1.6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
+
+    <clipPath id="clipBox">
+      <rect x="0.5" y="0.5" width="194" height="194" rx="6" />
+    </clipPath>
   </defs>
 
-  <!-- Background Card -->
+  <!-- Background Card: full blue box -->
   <rect x="0.5" y="0.5" width="194" height="194" class="box-bg" />
   <rect x="0.5" y="0.5" width="194" height="194" fill="url(#cornerGlow)" rx="6" />
+
+  <!-- Animated scan line, clipped inside the box -->
+  <g clip-path="url(#clipBox)">
+    <rect x="0" y="0" width="195" height="40" fill="#FFFFFF" opacity="0.05" class="scan-line" />
+  </g>
 
   <!-- Header -->
   <text x="97.5" y="24" text-anchor="middle" class="title-text">VISITORS</text>
@@ -95,6 +122,7 @@ def app(environ, start_response):
 
   <!-- Footer Status -->
   <g transform="translate(15, 172)">
+    <circle cx="4" cy="-3" r="4" fill="#A7F3D0" opacity="0.25" class="pulse-ring" />
     <circle cx="4" cy="-3" r="3" class="blinker" />
     <text x="12" y="0" class="status-text">STATUS: ACTIVE</text>
     <text x="165" y="0" text-anchor="end" class="subtitle-text">BONE</text>
