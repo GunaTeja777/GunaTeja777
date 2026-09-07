@@ -18,9 +18,9 @@ def app(environ, start_response):
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&amp;family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
       .box-bg {{
-        fill: #04060A;
-        stroke: #C2BEB0;
-        stroke-opacity: 0.15;
+        fill: #030712;
+        stroke: #3B82F6;
+        stroke-opacity: 0.2;
         stroke-width: 1px;
         rx: 6px;
       }}
@@ -28,29 +28,30 @@ def app(environ, start_response):
         font-family: 'Orbitron', sans-serif;
         font-size: 10px;
         font-weight: 700;
-        fill: #C2BEB0;
+        fill: #7DD3FC;
         letter-spacing: 0.12em;
       }}
       .subtitle-text {{
         font-family: 'Share Tech Mono', monospace;
         font-size: 8px;
-        fill: #928D7C;
+        fill: #4E7FAE;
       }}
       .divider {{
-        stroke: #C2BEB0;
-        stroke-opacity: 0.1;
+        stroke: #3B82F6;
+        stroke-opacity: 0.15;
         stroke-width: 1px;
       }}
       .giant-number {{
         font-family: 'Chakra Petch', sans-serif;
         font-size: 54px;
         font-weight: 700;
-        fill: #E0DCC8;
+        fill: url(#numberGradient);
+        filter: url(#softGlow);
       }}
       .status-text {{
         font-family: 'Share Tech Mono', monospace;
         font-size: 8px;
-        fill: #C2BEB0;
+        fill: #93C5FD;
       }}
       @keyframes blink {{
         0%, 100% {{ opacity: 0.3; }}
@@ -58,13 +59,29 @@ def app(environ, start_response):
       }}
       .blinker {{
         animation: blink 2s infinite;
-        fill: #34D399;
+        fill: #22D3EE;
       }}
     </style>
+    <linearGradient id="numberGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E0F2FE" />
+      <stop offset="100%" stop-color="#7DD3FC" />
+    </linearGradient>
+    <radialGradient id="cornerGlow" cx="100%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
   <!-- Background Card -->
   <rect x="0.5" y="0.5" width="194" height="194" class="box-bg" />
+  <rect x="0.5" y="0.5" width="194" height="194" fill="url(#cornerGlow)" rx="6" />
 
   <!-- Header -->
   <text x="97.5" y="24" text-anchor="middle" class="title-text">VISITORS</text>
@@ -84,7 +101,6 @@ def app(environ, start_response):
   </g>
 </svg>
 """
-
     status = '200 OK'
     headers = [
         ('Content-type', 'image/svg+xml'),
